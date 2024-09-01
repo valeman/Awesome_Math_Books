@@ -2,7 +2,7 @@
 
 ## [Table of Contents]()
 
-* [Books](#books)
+* [Probability](#probability)
 
 ## Probability
 
