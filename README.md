@@ -12,4 +12,5 @@
 4. [What is mathemarics](https://www.cimat.mx/~gil/docencia/2017/mate_elem/%5BCourant,Robbins%5DWhat_Is_Mathematics(2nd_edition_1996)v2.pdf) by Richard Courand and Herbert Robbins
 5. [Introduction to matrix analysis](https://eclass.uoa.gr/modules/document/file.php/MATH553/%5BRichard_Bellman%5D_Introduction_to_Matrix_Analysis%2C%28BookFi.org%29.pdf) by Richard Bellman
 6. [Combinatorial mathematics for recreation](https://archive.org/details/VilenkinCombinatorialMathematics) Vilenkin
+7. [Challenhing mathematical problems with elementary solutions, Volume I, Combinatorial Analysis and Probability Theory](https://ia802800.us.archive.org/13/items/ChallengingMathematicalProblemsWithElementarySolutionsVol1DoverYaglomYaglom/Challenging%20Mathematical%20Problems%20with%20Elementary%20Solutions%20Vol%201%20%28Dover%29%20-%20Yaglom%20%26%20Yaglom.pdf) Yaglom & Yaglom
 
