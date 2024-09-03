@@ -14,4 +14,5 @@
 6. [Combinatorial mathematics for recreation](https://archive.org/details/VilenkinCombinatorialMathematics) Vilenkin
 7. [Challenhing mathematical problems with elementary solutions, Volume I, Combinatorial Analysis and Probability Theory](https://ia802800.us.archive.org/13/items/ChallengingMathematicalProblemsWithElementarySolutionsVol1DoverYaglomYaglom/Challenging%20Mathematical%20Problems%20with%20Elementary%20Solutions%20Vol%201%20%28Dover%29%20-%20Yaglom%20%26%20Yaglom.pdf) Yaglom & Yaglom
 8. [Collection ofproblems in probability theory](https://gwern.net/doc/statistics/probability/1973-meshalkin-collectionofproblemsinprobabilitytheory.pdf) by Meshalkin
+9. [Algebra](https://archive.org/details/algebra-gelfand-1) by Gelfand and Shen
 
