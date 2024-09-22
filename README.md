@@ -22,7 +22,8 @@
 14. [Mathematical Analysis In Questions And Problems](https://archive.org/details/butuzov-ed.-mathematical-analysis-in-questions-and-problems-mir-1988/page/185/mode/2up)
 15.[Mathematical Handbook – Elementary Mathematics](https://archive.org/details/VygodskyElementaryMathematicalHandbook) by M. Vygodsky
 16. [Foundations of The Theory of Probability](https://archive.org/details/kolmogorov_202112) by A.N. Kolmogorov
-17. [Operations research](https://archive.org/details/WentzelOperationsResearchMir1983) [pdf](https://mega.nz/file/C5dGmATD#VFSnGH9FfSuvcPAJNa9PHHdrognlRz7c64dqErleDAk)
+17. [Operations research](https://archive.org/details/WentzelOperationsResearchMir1983) [pdf](https://mega.nz/file/C5dGmATD#VFSnGH9FfSuvcPAJNa9PHHdrognlRz7c64dqErleDAk) by Elena Wentzel
 18. [Measure, Lebesgue Integrals and Hilbert Space – Kolmogorov and Fomin](https://archive.org/details/MeasureLebesgueIntegralsAndHilbertSpace) by Kolmorogov and Fomin [pdf](https://mega.nz/file/u9sByChZ#3Da0G_3yMUZ8pcBL_7hdQgNngKsBBSCAdMMgelcjJck)
 19. [The method of mathematical induction](https://archive.org/details/The.Method.Of.Mathematical.InductionSominskii1961) by Sominskii
+20. [Methods Of Solving Problems in High School Mathematics](https://archive.org/details/tsypkin-pinsky-methods-of-solving-problems-in-high-school-mathematics-mir/mode/2up) by A. G. Tsypkin; A. I. Pinsky ; V. I. Blagodatskikh (Editor)
 
