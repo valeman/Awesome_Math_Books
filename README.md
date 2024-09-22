@@ -43,4 +43,10 @@
 35. [Linear Algebra: Problems Book](https://archive.org/details/IkramovLinearAlgebraProblemsBook) [pdf](https://mega.nz/file/LxcTBTpa#QJsBRhkFEVhgwg8gGfM1Go6jMTE8sTJMuoT77qEd7Hc) by Ikramov
 36. [Linear Algebra](https://archive.org/details/VoyevodinLinearAlgebraMir1983) [pdf](https://mega.nz/file/ehklDQbD#4lAQdrfy_VYRtIBcePeipl5mBX3PuVeMi1iqPx1FLRg) by Voyevodin
 37. [Problems in Linear Algebra](https://archive.org/details/ProskuryakovProblemsInLinearAlgebra) [pdf](https://mega.nz/file/X5UhHBDb#wC4wC6g2nOhIt9yfBiIVYbdOi_XSybNVf0Hs2-d68KU) by Proskuryakov
-38. [Analytical Geometry](https://archive.org/details/pogorelov-analytical-geometry-mir-publishers-1980) by Pogorelov 
+38. [Analytical Geometry](https://archive.org/details/pogorelov-analytical-geometry-mir-publishers-1980) by Pogorelov
+39. [Problems In Analytic Geometry](https://archive.org/details/kletenik-problems-in-analytic-geometry-peace) by D. Kletenik
+40. [A Collection Of Problems (Higher Mathematics)](https://archive.org/details/bugrov-nikolsky-a-collection-of-problems-higher-mathematics-mir-1984/) by  Bugrov, Nikolsky
+41. [Mathematical Analysis – Functions, Limits, Series, Continued Fractions](https://archive.org/details/lyusternik-yanpolskii-mathematical-analysis-functions-limits-series-continued-fractions) by Lyusternik, Yanpol’skii (Eds.)
+42. [Ordinary Differential Equations](https://archive.org/details/pontryagin-ordinary-differential-equations) by Pontryagin
+43. [Mathematical Analysis In Questions And Problems](https://archive.org/details/butuzov-ed.-mathematical-analysis-in-questions-and-problems-mir-1988) by B. F. Butuzov (Ed.); N. Ch. Krutitsknyn; G. N. Medvedev; A. A. Shishkin
+44. [A Course on Mathematical Analysis](https://archive.org/details/khinchin-a-course-of-mathematical-analysis) by Khinchin
