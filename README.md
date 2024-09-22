@@ -23,4 +23,5 @@
 15.[Mathematical Handbook – Elementary Mathematics](https://archive.org/details/VygodskyElementaryMathematicalHandbook) by M. Vygodsky
 16. [Foundations of The Theory of Probability](https://archive.org/details/kolmogorov_202112) by A.N. Kolmogorov
 17. [Operations research](https://archive.org/details/WentzelOperationsResearchMir1983) [pdf](https://mega.nz/file/C5dGmATD#VFSnGH9FfSuvcPAJNa9PHHdrognlRz7c64dqErleDAk)
+18. [Measure, Lebesgue Integrals and Hilbert Space – Kolmogorov and Fomin](https://archive.org/details/MeasureLebesgueIntegralsAndHilbertSpace) by Kolmorogov and Fomin [pdf](https://mega.nz/file/u9sByChZ#3Da0G_3yMUZ8pcBL_7hdQgNngKsBBSCAdMMgelcjJck)
 
