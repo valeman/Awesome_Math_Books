@@ -26,4 +26,5 @@
 18. [Measure, Lebesgue Integrals and Hilbert Space – Kolmogorov and Fomin](https://archive.org/details/MeasureLebesgueIntegralsAndHilbertSpace) by Kolmorogov and Fomin [pdf](https://mega.nz/file/u9sByChZ#3Da0G_3yMUZ8pcBL_7hdQgNngKsBBSCAdMMgelcjJck)
 19. [The method of mathematical induction](https://archive.org/details/The.Method.Of.Mathematical.InductionSominskii1961) by Sominskii
 20. [Methods Of Solving Problems in High School Mathematics](https://archive.org/details/tsypkin-pinsky-methods-of-solving-problems-in-high-school-mathematics-mir/mode/2up) by A. G. Tsypkin; A. I. Pinsky ; V. I. Blagodatskikh (Editor)
+21. [Mathematical Handbook – Higher Mathematics](https://mirtitles.org/2022/06/02/mathematical-handbook-higher-mathematics-vygodsky/) by Vygodsky
 
