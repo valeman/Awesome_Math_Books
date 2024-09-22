@@ -34,4 +34,5 @@
 26. [The World is Built on Probability](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023) by Lev Tarasov
 27. [Problems In Probability Theory, Mathematical Statistics And Theory Of Random Functions](https://archive.org/details/sveshnikov-problems-in-probability-theory-mathematical-statistics-and-theory-of-random-functions) by Sveshnikov
 28. [Probability And Information](https://archive.org/details/yaglom-yaglom-probability-and-information) by Yaglom and Yaglom
+29. [An Elementary Introduction to The Theory of Probability](https://archive.org/details/gnedenko-khinchin-an-elementary-introduction-to-the-theory-of-probability) by Gnedenko, Khinchin
 
