@@ -27,6 +27,6 @@
 19. [The method of mathematical induction](https://archive.org/details/The.Method.Of.Mathematical.InductionSominskii1961) by Sominskii
 20. [Methods Of Solving Problems in High School Mathematics](https://archive.org/details/tsypkin-pinsky-methods-of-solving-problems-in-high-school-mathematics-mir/mode/2up) by A. G. Tsypkin; A. I. Pinsky ; V. I. Blagodatskikh (Editor)
 21. [Mathematical Handbook – Higher Mathematics](https://mirtitles.org/2022/06/02/mathematical-handbook-higher-mathematics-vygodsky/) by Vygodsky
-22. [Differential and Integral Calculus (Volumes 1 & 2)] [volume 1](https://archive.org/details/piskunov-differential-and-integral-calculus-volume-1-mir) [volume II](https://archive.org/details/piskunov-differential-and-integral-calculus-volume-2-mir) by Piskunov
+22. Differential and Integral Calculus (Volumes 1 & 2) [volume 1](https://archive.org/details/piskunov-differential-and-integral-calculus-volume-1-mir) [volume II](https://archive.org/details/piskunov-differential-and-integral-calculus-volume-2-mir) by Piskunov
 23. [Higher Mathematics For Beginners And Its Application To Physics](https://mirtitles.org/2022/07/04/higher-mathematics-for-beginners-and-its-application-to-physics-zeldovich/) by Zeldovich
 
