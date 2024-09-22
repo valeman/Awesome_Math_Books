@@ -37,4 +37,7 @@
 29. [An Elementary Introduction to The Theory of Probability](https://archive.org/details/gnedenko-khinchin-an-elementary-introduction-to-the-theory-of-probability) by Gnedenko, Khinchin
 30. [Theory of Probability](https://archive.org/details/GnedenkoTheoryOfProbability) [pdf](https://mega.nz/file/35ty2IBK#XNdnlOJ9YrAdihpMSI2Q9nMFV56cjmW0o6MOqcfDkVc) by Gnedenko
 31. [Fundamentals of Linear Algebra and Analytical Geometry](https://archive.org/details/bugrov-y.-s.-nikolsky-s.-m-fundamentals-of-linear-algebra-and-analytical-geometry-mir-1982) [pdf](https://mega.nz/file/alVBDKJa#z6NQUR_y5c56yzDuXmA8vKXv3daAQy9Mog3-ToGCa4I) by Bugrov, Nikolsky
-32. 
+32. [Higher Mathematics ( Part 1) – for Engineering Students Part 1. Linear Algebra and Fundamentals of Mathematical Analysis](https://archive.org/details/efimov-demidovich-higher-mathematics-part-1-mir-1984) by A. V. Efimov; B. P. Demidovich
+33. [Linear Algebra with Elements of Analytic Geometry](https://archive.org/details/linear-algebra-with-elements-of-analytic-geometry-mir-1990) by Solodovnikov, Toropova
+34. [Linear Algebra And Multi Dimensional Geometry](https://archive.org/details/linearalgebraandmultidimensionalgeometry/) by Efimov, Rozendorn
+35. 
