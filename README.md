@@ -29,4 +29,5 @@
 21. [Mathematical Handbook – Higher Mathematics](https://mirtitles.org/2022/06/02/mathematical-handbook-higher-mathematics-vygodsky/) by Vygodsky
 22. Differential and Integral Calculus (Volumes 1 & 2) [volume 1](https://archive.org/details/piskunov-differential-and-integral-calculus-volume-1-mir) [volume II](https://archive.org/details/piskunov-differential-and-integral-calculus-volume-2-mir) by Piskunov
 23. [Higher Mathematics For Beginners And Its Application To Physics](https://mirtitles.org/2022/07/04/higher-mathematics-for-beginners-and-its-application-to-physics-zeldovich/) by Zeldovich
+24. [Calculus: Basic Concepts for High Schools](https://archive.org/details/LevTarasovCalculusBasicConceptsForHighSchools) by Tarasov
 
