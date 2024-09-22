@@ -40,4 +40,6 @@
 32. [Higher Mathematics ( Part 1) – for Engineering Students Part 1. Linear Algebra and Fundamentals of Mathematical Analysis](https://archive.org/details/efimov-demidovich-higher-mathematics-part-1-mir-1984) by A. V. Efimov; B. P. Demidovich
 33. [Linear Algebra with Elements of Analytic Geometry](https://archive.org/details/linear-algebra-with-elements-of-analytic-geometry-mir-1990) by Solodovnikov, Toropova
 34. [Linear Algebra And Multi Dimensional Geometry](https://archive.org/details/linearalgebraandmultidimensionalgeometry/) by Efimov, Rozendorn
-35. 
+35. [Linear Algebra: Problems Book](https://archive.org/details/IkramovLinearAlgebraProblemsBook) [pdf](https://mega.nz/file/LxcTBTpa#QJsBRhkFEVhgwg8gGfM1Go6jMTE8sTJMuoT77qEd7Hc) by Ikramov
+36. [Linear Algebra](https://archive.org/details/VoyevodinLinearAlgebraMir1983) [pdf](https://mega.nz/file/ehklDQbD#4lAQdrfy_VYRtIBcePeipl5mBX3PuVeMi1iqPx1FLRg) by Voyevodin
+37. [Problems in Linear Algebra](https://archive.org/details/ProskuryakovProblemsInLinearAlgebra) [pdf](https://mega.nz/file/X5UhHBDb#wC4wC6g2nOhIt9yfBiIVYbdOi_XSybNVf0Hs2-d68KU) by Proskuryakov
