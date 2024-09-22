@@ -19,7 +19,7 @@
 11. [Mathematical Analysis – A Brief Course For Engineering Students](https://archive.org/details/bermant-aramanovich-mathematical-analysis-a-breif-course-for-engineering-students/page/503/mode/2up) by A.F . Bermant; I. G. Aramanovich
 12. [A Collection of Problems on a Course of Mathematical Analysis](https://www.karlin.mff.cuni.cz/~beckd/MAF/BERMAN%20G.%20N.,%20A%20Collection%20of%20Problems%20on%20a%20Course%20of%20Mathematical%20Analysis.pdf) by Berman
 13. [Higher Mathematics ( Part 1) – for Engineering Students Part 1. Linear Algebra and Fundamentals of Mathematical Analysis](https://archive.org/details/efimov-demidovich-higher-mathematics-part-1-mir-1984)  by A. V. Efimov; B. P. Demidovich
-14. [Mathematical Analysis In Questions And Problems](https://archive.org/details/butuzov-ed.-mathematical-analysis-in-questions-and-problems-mir-1988/page/185/mode/2up)
+14. [Mathematical Analysis In Questions And Problems](https://archive.org/details/butuzov-ed.-mathematical-analysis-in-questions-and-problems-mir-1988/page/185/mode/2up) by B. F. Butuzov (Ed.); N. Ch. Krutitsknyn; G. N. Medvedev; A. A. Shishkin
 15.[Mathematical Handbook – Elementary Mathematics](https://archive.org/details/VygodskyElementaryMathematicalHandbook) by M. Vygodsky
 16. [Foundations of The Theory of Probability](https://archive.org/details/kolmogorov_202112) by A.N. Kolmogorov
 17. [Operations research](https://archive.org/details/WentzelOperationsResearchMir1983) [pdf](https://mega.nz/file/C5dGmATD#VFSnGH9FfSuvcPAJNa9PHHdrognlRz7c64dqErleDAk) by Elena Wentzel
