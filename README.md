@@ -52,4 +52,4 @@
 44. [A Course on Mathematical Analysis](https://archive.org/details/khinchin-a-course-of-mathematical-analysis) by Khinchin
 45. A Course of Mathematical Analysis [Volume 1](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-1-mir/) [Volume 1 pdf](https://mega.nz/file/qwUUBZjb#NiSvT-JcsMhOHX9cKrYiPq0_nV7qQhcAhSyqYgo-oz0) [Volume 2](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-2-mir/) [Volume 2 pdf](https://mega.nz/file/X4sUHQJA#Bp5OZwm8OVmpUR3P8aqLOXn27WVD0VtYdKe-E15X3cs)
 46. [Introductory probability theory](https://archive.org/details/IntroductoryprobabilitytheoryRozanov1969/IntroductoryprobabilitytheoryRozanov1969/mode/2up) by Yuri Rozanov
-47. 
+47. [Differential And Integral Calculus](https://archive.org/details/n.-piskunov-differential-and-integral-calculus-mir-1969/page/755/mode/2up) by Piskunov
