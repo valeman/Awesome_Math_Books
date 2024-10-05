@@ -55,3 +55,4 @@
 47. [Differential And Integral Calculus](https://archive.org/details/n.-piskunov-differential-and-integral-calculus-mir-1969/page/755/mode/2up) by Piskunov
 48. [Linear algebra](https://archive.org/details/linearalgebra0000shil) by Shilov
 49. [Mathematics for computer science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) by Lehman, Leighton, Meyer (MIT)
+50. [Introduction to the theory of probability and statistics](https://archive.org/details/introductiontoth0000arle/page/n7/mode/2up) by Niels Arley and Rander Buch
