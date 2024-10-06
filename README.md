@@ -63,6 +63,9 @@
 55. [Elementary Mathematics ( Selected Topics And Problem Solving)](https://archive.org/details/dorofeev-potapov-rozov-elementary-mathematics-selected-topics-and-problem-solving-mir-1982) by G. Dorofeev; M. Potapov; N. Rozov
 56. [A Brief Course Of Higher Mathematics](https://archive.org/details/v.-a.-kudryavtsev-b.-r-demidovich-a-brief-course-of-higher-mathematics-mir-1981) by V.A. Kudryavtsev and Demidovich
 57. [The Moscow Puzzles](https://archive.org/details/boris-a.-kordemsky-the-moscow-puzzles-1972) by Boris A. Kordemsky
+58. [Differential Equations And The Calculus Of Variations](https://archive.org/details/ElsgoltsDifferentialEquationsAndTheCalculusOfVariations) by L. Elsgolts
+59. [Problem Book In High School Mathematics](https://archive.org/details/prilepko-problem-book-in-high-school-mathematics-1985)
+by Prilepko
 
 
 ## Physics
@@ -72,4 +75,5 @@
 4. [Problems In General Physics](https://archive.org/details/WolkensteinProblemsInGeneralPhysicsMir) by V. S. Wolkenstein
 5. [A Collection Of Questions And Problems In Physics](https://archive.org/details/ACollectionOfQuestionsAndProblemsInPhysics) by Sens
 6. [Basic Laws Of Electromagnetism](https://archive.org/details/IrodovBasicLawsOfElectromagnetism) by I. E. Irodov
-7. 
+7. [Fundamentals of physics](https://archive.org/details/b.-m.-yavorsky-a.-a.-pinsky-fundamentals-of-physics-volume-1-mir-1975) by Yavorski and Pinsky
+8. [
