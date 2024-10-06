@@ -58,3 +58,4 @@
 50. [Introduction to the theory of probability and statistics](https://archive.org/details/introductiontoth0000arle/page/n7/mode/2up) by Niels Arley and Rander Buch
 51. [Introduction To Mathematical Probability](https://archive.org/details/in.ernet.dli.2015.263184) by Uspensky
 52. [An introduction to linear algebra and tensors](https://archive.org/details/isbn_9780486635453) by Akivis and Goldberg
+53. [Calculus Of Variations](https://archive.org/details/gelfand-fomin-calculus-of-variations) by I.M. Gelfand; S.V. Fomin
