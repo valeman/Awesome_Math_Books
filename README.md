@@ -83,6 +83,26 @@ by Ilyin, Poznyak
 72. [Solving Problems In Geometry](https://archive.org/details/GusevLitivinenkoMordkovichSolvingProblemsInGeometryMir1988) by V. Gusev; V. Litvinenko; A. Mordkovich
 73. [Sequences, Combinations, Limits (Library of School Mathematics Vol. 3)](https://archive.org/details/gelfand-et-al-sequences-combinations-limits-1969) by S.I. Gelfand; M.L. Gerver; N.N. Konstantinov; A. G. Kushnirenko; A.A. Kirillov
 74. [Worked Problems In Applied Mathematics](https://archive.org/details/n.-n.-lebedev-i.-p.-skalskaya-y.-s.-uflyand-worked-problems-in-applied-mathematics-1965/page/n5/mode/2up) by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand
+75. [Limits And Continuity ( Pocket Mathematical Library)](https://archive.org/details/korovkin-limits-and-continuity-pocket-mathematical-library)
+by P. P. Korovkin
+78. [Theory of matrice, Volume I](https://archive.org/details/gantmacher-the-theory-of-matrices-vol-1-1959) by Gantmacher 🔥🔥🔥🔥🔥
+79. [Theory of matrice, Volume II](https://archive.org/details/gantmacher-the-theory-of-matrices-vol-2-1959) by Gantmacher 🔥🔥🔥🔥🔥
+80. [Elements Of Applied Mathematics](https://archive.org/details/ZeldovichMyskisElementsOfAppliedMathematics) YA. B. Zeldovich, A. D. Myskis
+81. [Computational Mathematics](https://archive.org/details/computational-mathematics) by B. P. Demidovich; I. A. Maron
+82. [A Course Of Mathematical Analysis](https://archive.org/details/khinchin-a-course-of-mathematical-analysis) by A. Ya. Khinchin 🔥🔥🔥🔥🔥
+83. [Geometric Transformations 1](https://archive.org/details/i.-m.-yaglom-geometric-transformations-1-1962) by I. M. Yaglom
+84. [Problems In Plane Geometry ( Science For Everyone)](https://archive.org/details/SharyginProblemsInPlaneGeometryScienceForEveryone)
+by I. F. Sharygin
+85. [Trigonometric Functions - Problem Solving Approach](https://archive.org/details/TrigonometricFunctions-ProblemSolvingApproach)
+by A. Panchishkin, E. Shavgulidze
+86. [Measure And Derivative A Unified Approach](https://archive.org/details/g.-e.-shilov-b.-l.-gurevich-measure-and-derivative-a-unified-approach-1966) by G.E. Shilov; B.L. Gurevich
+87. [Higher Algebra](https://archive.org/details/kurosh-higher-algebra) by A. Kurosh
+88. [Mathematical Logic](https://archive.org/details/ErshovPalyutinMathematicalLogicMir1984) by Yu. L. Ershov, E. A. Palyutin
+89. [Problems And Exercises In Integral Equations](https://archive.org/details/ProblemsAndExercisesInIntegralEquationsKrasnovKiselevMakarenko)
+by M. Krasnov, A. Kiselev, G. Makarenko
+91. [Continued Fractions](https://archive.org/details/khinchin-continued-fractions) by A. Ya. Khinchin
+
+
 
 
 
@@ -105,7 +125,39 @@ by S. Kozel; E. Rashda; S. Slavatinskii 🔥🔥🔥🔥🔥
 12. [Collection Of Problems In Classical Mechanics](https://archive.org/details/kotkin-serbo-collection-of-problems-in-classical-mechanics) 
 by G. L. Kotkin; V. G. Serbo
 13. [Lectures in analytical mechanics](https://archive.org/details/f.-gantmacher-lectures-in-analytical-mehcanics-mir-1975/mode/2up) by Felix Gantmacher 🔥🔥🔥🔥🔥
+14. [Physics for Everyone - Book 1 - Physical Bodies](https://archive.org/details/PhysicsForEveryone-Book1-PhysicalBodies)
+by L. D. Landau, A. I. Kitaigorodsky
+15. [Elementary textbook on physics, Volumes I-III](https://archive.org/search?query=creator%3A%22G.+S.+Landsberg+%28Ed.%29%22) by Landsberg
+16. [Problems in undergraduate physics](https://archive.org/details/strelkov-yakovlev-problems-in-undergraduate-physics-vol-i-mechanics.) by Strelkov and Yakovlev
+17. [Physics - a general course, Volumes I-III](https://archive.org/search?query=creator%3A%22I.+V.+Savelyev%22) by Savelyev 🔥🔥🔥🔥🔥
+18. [Electricity And Magnetism](https://archive.org/details/MatveevElectricityAndMagnetism) by A. N. Matveev
+19. [Questions And Answers In School Physics](https://archive.org/details/QuestionsAndAnswersInSchoolPhysics) by L. V. Tarasov, A. Tarasova
+20. [Theoretical Mechanics](https://archive.org/details/n.-g.-chetaev-theoretical-mechanics-mir-1987)by N. G. Chetaev
 
- Lectures I
+   
+
+ Problems In Undergraduate Physics Vol I Mechanics.
+by S. P. Strelkov. I. A. Yakovlev
+
+
+   
+
+ Problems In Undergraduate Physics Vol I Mechanics.
+by S. P. Strelkov. I. A. Yakovlev
+
+
+   
+
+ Problems In Undergraduate Physics Vol I Mechanics.
+by S. P. Strelkov. I. A. Yakovlev
+
+
+   
+
+ Problems In Undergraduate Physics Vol I Mechanics.
+by S. P. Strelkov. I. A. Yakovlev
+
+
+ 
 
 
