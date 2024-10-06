@@ -64,3 +64,4 @@
 
 ## Physics
 1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
+2. [Fundamental Laws of Mechanics](https://archive.org/details/IrodovMechanics) by Irodov
