@@ -106,8 +106,7 @@ by M. Krasnov, A. Kiselev, G. Makarenko
 94. [Differentiation Explained ( Little Mathematics Library)](https://archive.org/details/boltyansky-v.-g.-differentiation-explained-little-mathematics-library-mir-1977) by V. G. Boltyansky
 95. [Generalized Functions Vol 1 Properties And Operations](https://archive.org/details/gelfand-shilov-generalized-functions-vol-1-properties-and-operations) by I. M. Gelfand; G. E. Shilov
 96. [Geometry](https://archive.org/details/shuvalova-geometry) by E. Z. Shuvalova
-97. [Problems In Elementary Mathematics](https://archive.org/details/LidskyOvsyannikovTuliakovShabuninProblemsInElementaryMathematicsMirPublishers)
-by V. Lidsky, L. Ovsyannikov, A. Tuliakov and M. Shabunin
+97. [Problems In Elementary Mathematics](https://archive.org/details/LidskyOvsyannikovTuliakovShabuninProblemsInElementaryMathematicsMirPublishers) by V. Lidsky, L. Ovsyannikov, A. Tuliakov and M. Shabunin
 98. [Learn Limits Through Problems! Pocket Mathematical Library Workbook 2](https://archive.org/details/learn-limits-through-problems-pocket-mathematical-library-workbook-2) by S. I. Gelfand; M. L. Gerver; A. A. Kirillov; N. N. Konstantinov; A.G. Kushnirenko
 99.  [Introduction To Topology](https://archive.org/details/borisovichbliznyakovizrailevichfomenkointroductiontotopologymir)
 by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
