@@ -74,6 +74,13 @@ by Prilepko
 65. [Inequalities (Little Mathematics Library)](https://archive.org/details/InequalitieslittleMathematicsLibrary) by P. P. Korovkin
 66. [High School Mathematics Part 1](https://archive.org/details/g.-n.-yakovlev-ed.-high-school-mathematics-part-1-mir-1988/mode/2up) by G. N. Yakovlev ( Ed.) 🔥🔥🔥🔥🔥
 67. [High School Mathematics Part 2](https://archive.org/details/g.-n.-yakovlev-ed.-high-school-mathematics-part-2-mir-1988) by G. N. Yakovlev ( Ed.) 🔥🔥🔥🔥🔥
+68. [Solving Problems In Algebra And Trigonometry](https://archive.org/details/LitivinenkoMordkovichSolvingProblemsInAlgebraAndTrigonometryMir1988)
+by V. Litvinenko; A. Mordkovich
+69. [Fundamentals Of Mathematical Analysis](https://archive.org/details/ilyin-poznyak-fundamentals-of-mathematical-analysis)
+by Ilyin, Poznyak
+70. [Questions And Problems In High School Mathematics](https://archive.org/details/l.-a.-kondratyeva-v.-s-solomonik-questions-and-problems-in-high-school-mathematics-mir-1987) by L. A. Kondratyeva; V. S. Solomonik
+71. [Differential And Integral Calculus Volume 2](https://archive.org/details/piskunov-differential-and-integral-calculus-volume-2-mir) by N. Piskunov
+
 
 
 
@@ -92,5 +99,7 @@ by S. Kozel; E. Rashda; S. Slavatinskii 🔥🔥🔥🔥🔥
 9. [General Methods For Solving Physics Problems](https://archive.org/details/BelikovGeneralMethodsForSolvingPhysicsProblems) by B. S. Beliko
 10. [Basic Electricity And Electronics](https://archive.org/details/popov-nikolaev-basic-electricity-and-electronics-mir) by V. S. Popov; S. A. Nikolaev
 11. [Selected Problems On Physics](https://archive.org/details/MyasnikovOsanovaSelectedProblemsOnPhysics) by S. P. Myasnikov, T. N. Osanova
+12. [Collection Of Problems In Classical Mechanics](https://archive.org/details/kotkin-serbo-collection-of-problems-in-classical-mechanics) 
+by G. L. Kotkin; V. G. Serbo
 
 
