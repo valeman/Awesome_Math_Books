@@ -101,12 +101,17 @@ by A. Panchishkin, E. Shavgulidze
 89. [Problems And Exercises In Integral Equations](https://archive.org/details/ProblemsAndExercisesInIntegralEquationsKrasnovKiselevMakarenko)
 by M. Krasnov, A. Kiselev, G. Makarenko
 91. [Continued Fractions](https://archive.org/details/khinchin-continued-fractions) by A. Ya. Khinchin
-
-
-
-
-
-
+92. [Elements Of Number Theory](https://archive.org/details/vinogradov-elements-of-number-theory) by I. M. Vinogradov
+93. [Vector Analysis](https://archive.org/details/vinogradov-elements-of-number-theory) by M.L. Krasnov; A.I. Kiselev; G.I. Makarenko.
+94. [Differentiation Explained ( Little Mathematics Library)](https://archive.org/details/boltyansky-v.-g.-differentiation-explained-little-mathematics-library-mir-1977) by V. G. Boltyansky
+95. [Generalized Functions Vol 1 Properties And Operations](https://archive.org/details/gelfand-shilov-generalized-functions-vol-1-properties-and-operations) by I. M. Gelfand; G. E. Shilov
+96. [Geometry](https://archive.org/details/shuvalova-geometry) by E. Z. Shuvalova
+97. [Problems In Elementary Mathematics](https://archive.org/details/LidskyOvsyannikovTuliakovShabuninProblemsInElementaryMathematicsMirPublishers)
+by V. Lidsky, L. Ovsyannikov, A. Tuliakov and M. Shabunin
+98. [Learn Limits Through Problems! ( Pocket Mathematical Library Workbook 2)](https://archive.org/details/learn-limits-through-problems-pocket-mathematical-library-workbook-2) by S. I. Gelfand; M. L. Gerver; A. A. Kirillov; N. N. Konstantinov; A.G. Kushnirenko
+99. [Introduction To Topology](https://archive.org/details/borisovichbliznyakovizrailevichfomenkointroductiontotopologymir)
+by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
+100. [Challenging Mathematical Problems With Elementary Solutions Vol. 1](https://archive.org/details/yaglom-yaglom-challenging-mathematical-problems-with-elementary-solutions-vol.-1) by A. M. Yaglom; I. M. Yaglom
 
 
 ## Physics
@@ -133,31 +138,11 @@ by L. D. Landau, A. I. Kitaigorodsky
 18. [Electricity And Magnetism](https://archive.org/details/MatveevElectricityAndMagnetism) by A. N. Matveev
 19. [Questions And Answers In School Physics](https://archive.org/details/QuestionsAndAnswersInSchoolPhysics) by L. V. Tarasov, A. Tarasova
 20. [Theoretical Mechanics](https://archive.org/details/n.-g.-chetaev-theoretical-mechanics-mir-1987)by N. G. Chetaev
+21. [Basic Concepts Of Quantum Mechanics](https://archive.org/details/tarasov-basic-concepts-of-quantum-mechanics-2021) by L. V. Tarasov
 
    
 
- Problems In Undergraduate Physics Vol I Mechanics.
-by S. P. Strelkov. I. A. Yakovlev
-
-
-   
-
- Problems In Undergraduate Physics Vol I Mechanics.
-by S. P. Strelkov. I. A. Yakovlev
-
-
-   
-
- Problems In Undergraduate Physics Vol I Mechanics.
-by S. P. Strelkov. I. A. Yakovlev
-
-
-   
-
- Problems In Undergraduate Physics Vol I Mechanics.
-by S. P. Strelkov. I. A. Yakovlev
-
-
+ 
  
 
 
