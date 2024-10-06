@@ -80,6 +80,9 @@ by V. Litvinenko; A. Mordkovich
 by Ilyin, Poznyak
 70. [Questions And Problems In High School Mathematics](https://archive.org/details/l.-a.-kondratyeva-v.-s-solomonik-questions-and-problems-in-high-school-mathematics-mir-1987) by L. A. Kondratyeva; V. S. Solomonik
 71. [Differential And Integral Calculus Volume 2](https://archive.org/details/piskunov-differential-and-integral-calculus-volume-2-mir) by N. Piskunov
+72. [Solving Problems In Geometry](https://archive.org/details/GusevLitivinenkoMordkovichSolvingProblemsInGeometryMir1988) by V. Gusev; V. Litvinenko; A. Mordkovich
+73. [Sequences, Combinations, Limits (Library of School Mathematics Vol. 3)](https://archive.org/details/gelfand-et-al-sequences-combinations-limits-1969) by S.I. Gelfand; M.L. Gerver; N.N. Konstantinov; A. G. Kushnirenko; A.A. Kirillov
+74. [Worked Problems In Applied Mathematics](https://archive.org/details/n.-n.-lebedev-i.-p.-skalskaya-y.-s.-uflyand-worked-problems-in-applied-mathematics-1965/page/n5/mode/2up) by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand
 
 
 
@@ -101,5 +104,8 @@ by S. Kozel; E. Rashda; S. Slavatinskii 🔥🔥🔥🔥🔥
 11. [Selected Problems On Physics](https://archive.org/details/MyasnikovOsanovaSelectedProblemsOnPhysics) by S. P. Myasnikov, T. N. Osanova
 12. [Collection Of Problems In Classical Mechanics](https://archive.org/details/kotkin-serbo-collection-of-problems-in-classical-mechanics) 
 by G. L. Kotkin; V. G. Serbo
+13. [Lectures in analytical mechanics](https://archive.org/details/f.-gantmacher-lectures-in-analytical-mehcanics-mir-1975/mode/2up) by Felix Gantmacher 🔥🔥🔥🔥🔥
+
+ Lectures I
 
 
