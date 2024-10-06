@@ -59,3 +59,4 @@
 51. [Introduction To Mathematical Probability](https://archive.org/details/in.ernet.dli.2015.263184) by Uspensky
 52. [An introduction to linear algebra and tensors](https://archive.org/details/isbn_9780486635453) by Akivis and Goldberg
 53. [Calculus Of Variations](https://archive.org/details/gelfand-fomin-calculus-of-variations) by I.M. Gelfand; S.V. Fomin
+54. [Introductory Real Analysis](https://archive.org/details/kolmogorov-fomin-introductory-real-analysis) by Kolmogorov and Fomin
