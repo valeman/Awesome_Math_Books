@@ -66,6 +66,9 @@
 58. [Differential Equations And The Calculus Of Variations](https://archive.org/details/ElsgoltsDifferentialEquationsAndTheCalculusOfVariations) by L. Elsgolts
 59. [Problem Book In High School Mathematics](https://archive.org/details/prilepko-problem-book-in-high-school-mathematics-1985)
 by Prilepko
+60. [Problems In Mathematics With Hints And Solutions](https://archive.org/details/v.-govorov-p.-dybov-n.-miroshin-s.-smirnova-problems-in-mathematics-with-hints-a) by V. Govorov; P. Dybov; N. Miroshin; S. Smirnova
+61. [The USSR Olympiad Problem Book](https://archive.org/details/shklarsky-chentzov-yaglom-the-ussr-olympiad-problem-book) by D. O. Shklarsky; N. N. Chentzov; I. M. Yaglom
+
 
 
 ## Physics
@@ -76,4 +79,6 @@ by Prilepko
 5. [A Collection Of Questions And Problems In Physics](https://archive.org/details/ACollectionOfQuestionsAndProblemsInPhysics) by Sens
 6. [Basic Laws Of Electromagnetism](https://archive.org/details/IrodovBasicLawsOfElectromagnetism) by I. E. Irodov
 7. [Fundamentals of physics](https://archive.org/details/b.-m.-yavorsky-a.-a.-pinsky-fundamentals-of-physics-volume-1-mir-1975) by Yavorski and Pinsky
-8. [
+8. [Collected Problems In Physics](https://archive.org/details/s.-kozel-e.-rashda-s.-slavatinskii-collected-problems-in-physics-mir-1986/mode/2up) 
+by S. Kozel; E. Rashda; S. Slavatinskii
+
