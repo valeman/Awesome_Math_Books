@@ -68,6 +68,8 @@
 by Prilepko
 60. [Problems In Mathematics With Hints And Solutions](https://archive.org/details/v.-govorov-p.-dybov-n.-miroshin-s.-smirnova-problems-in-mathematics-with-hints-a) by V. Govorov; P. Dybov; N. Miroshin; S. Smirnova
 61. [The USSR Olympiad Problem Book](https://archive.org/details/shklarsky-chentzov-yaglom-the-ussr-olympiad-problem-book) by D. O. Shklarsky; N. N. Chentzov; I. M. Yaglom
+62. [Fourier Series](https://archive.org/details/tolstov-fourier-series-1962) by G.P. Tolstov
+
 
 
 
