@@ -41,7 +41,7 @@
 33. [Linear Algebra with Elements of Analytic Geometry](https://archive.org/details/linear-algebra-with-elements-of-analytic-geometry-mir-1990) by Solodovnikov, Toropova
 34. [Linear Algebra And Multi Dimensional Geometry](https://archive.org/details/linearalgebraandmultidimensionalgeometry/) by Efimov, Rozendorn
 35. [Linear Algebra: Problems Book](https://archive.org/details/IkramovLinearAlgebraProblemsBook) [pdf](https://mega.nz/file/LxcTBTpa#QJsBRhkFEVhgwg8gGfM1Go6jMTE8sTJMuoT77qEd7Hc) by Ikramov
-36. [Linear Algebra](https://archive.org/details/VoyevodinLinearAlgebraMir1983) [pdf](https://mega.nz/file/ehklDQbD#4lAQdrfy_VYRtIBcePeipl5mBX3PuVeMi1iqPx1FLRg) by Voyevodin
+36. [Linear Algebra](https://archive.org/details/VoyevodinLinearAlgebraMir1983](https://mega.nz/file/ehklDQbD#4lAQdrfy_VYRtIBcePeipl5mBX3PuVeMi1iqPx1FLRg) by Voyevodin
 37. [Problems in Linear Algebra](https://archive.org/details/ProskuryakovProblemsInLinearAlgebra) [pdf](https://mega.nz/file/X5UhHBDb#wC4wC6g2nOhIt9yfBiIVYbdOi_XSybNVf0Hs2-d68KU) by Proskuryakov
 38. [Analytical Geometry](https://archive.org/details/pogorelov-analytical-geometry-mir-publishers-1980) by Pogorelov
 39. [Problems In Analytic Geometry](https://archive.org/details/kletenik-problems-in-analytic-geometry-peace) by D. Kletenik
@@ -60,8 +60,16 @@
 52. [An introduction to linear algebra and tensors](https://archive.org/details/isbn_9780486635453) by Akivis and Goldberg
 53. [Calculus Of Variations](https://archive.org/details/gelfand-fomin-calculus-of-variations) by I.M. Gelfand; S.V. Fomin
 54. [Introductory Real Analysis](https://archive.org/details/kolmogorov-fomin-introductory-real-analysis) by Kolmogorov and Fomin
+55. [Elementary Mathematics ( Selected Topics And Problem Solving)](https://archive.org/details/dorofeev-potapov-rozov-elementary-mathematics-selected-topics-and-problem-solving-mir-1982) by G. Dorofeev; M. Potapov; N. Rozov
+56. [A Brief Course Of Higher Mathematics](https://archive.org/details/v.-a.-kudryavtsev-b.-r-demidovich-a-brief-course-of-higher-mathematics-mir-1981) by V.A. Kudryavtsev and Demidovich
+57. [The Moscow Puzzles](https://archive.org/details/boris-a.-kordemsky-the-moscow-puzzles-1972) by Boris A. Kordemsky
 
 
 ## Physics
 1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
 2. [Fundamental Laws of Mechanics](https://archive.org/details/IrodovMechanics) by Irodov
+3. [Handbook Of Physics](https://archive.org/details/yavorsky-detlaf-handbook-of-physics-mir) by Yavorsky and Detlaf
+4. [Problems In General Physics](https://archive.org/details/WolkensteinProblemsInGeneralPhysicsMir) by V. S. Wolkenstein
+5. [A Collection Of Questions And Problems In Physics](https://archive.org/details/ACollectionOfQuestionsAndProblemsInPhysics) by Sens
+6. [Basic Laws Of Electromagnetism](https://archive.org/details/IrodovBasicLawsOfElectromagnetism) by I. E. Irodov
+7. 
