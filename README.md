@@ -69,6 +69,12 @@ by Prilepko
 60. [Problems In Mathematics With Hints And Solutions](https://archive.org/details/v.-govorov-p.-dybov-n.-miroshin-s.-smirnova-problems-in-mathematics-with-hints-a) by V. Govorov; P. Dybov; N. Miroshin; S. Smirnova
 61. [The USSR Olympiad Problem Book](https://archive.org/details/shklarsky-chentzov-yaglom-the-ussr-olympiad-problem-book) by D. O. Shklarsky; N. N. Chentzov; I. M. Yaglom
 62. [Fourier Series](https://archive.org/details/tolstov-fourier-series-1962) by G.P. Tolstov
+63. [Mathematical Aspects Of Computer Engineering](https://archive.org/details/v.-p.-maslov-k.-a.-volosov-eds.-mathematical-aspects-of-computer-engineering-mir-1988/page/28/mode/2up) by V.P. Maslov (Ed.); K.A. Volosov ( Ed.)
+64. [Higher Mathematics ( Part 1) - for Engineering Students Part 1. Linear Algebra and Fundamentals of Mathematical Analysis](https://archive.org/details/efimov-demidovich-higher-mathematics-part-1-mir-1984) by A. V. Efimov; B. P. Demidovich
+65. [Inequalities (Little Mathematics Library)](https://archive.org/details/InequalitieslittleMathematicsLibrary) by P. P. Korovkin
+66. [High School Mathematics Part 1](https://archive.org/details/g.-n.-yakovlev-ed.-high-school-mathematics-part-1-mir-1988/mode/2up) by G. N. Yakovlev ( Ed.) 🔥🔥🔥🔥🔥
+67. [High School Mathematics Part 2](https://archive.org/details/g.-n.-yakovlev-ed.-high-school-mathematics-part-2-mir-1988) by G. N. Yakovlev ( Ed.) 🔥🔥🔥🔥🔥
+
 
 
 
@@ -82,5 +88,9 @@ by Prilepko
 6. [Basic Laws Of Electromagnetism](https://archive.org/details/IrodovBasicLawsOfElectromagnetism) by I. E. Irodov
 7. [Fundamentals of physics](https://archive.org/details/b.-m.-yavorsky-a.-a.-pinsky-fundamentals-of-physics-volume-1-mir-1975) by Yavorski and Pinsky
 8. [Collected Problems In Physics](https://archive.org/details/s.-kozel-e.-rashda-s.-slavatinskii-collected-problems-in-physics-mir-1986/mode/2up) 
-by S. Kozel; E. Rashda; S. Slavatinskii
+by S. Kozel; E. Rashda; S. Slavatinskii 🔥🔥🔥🔥🔥
+9. [General Methods For Solving Physics Problems](https://archive.org/details/BelikovGeneralMethodsForSolvingPhysicsProblems) by B. S. Beliko
+10. [Basic Electricity And Electronics](https://archive.org/details/popov-nikolaev-basic-electricity-and-electronics-mir) by V. S. Popov; S. A. Nikolaev
+11. [Selected Problems On Physics](https://archive.org/details/MyasnikovOsanovaSelectedProblemsOnPhysics) by S. P. Myasnikov, T. N. Osanova
+
 
