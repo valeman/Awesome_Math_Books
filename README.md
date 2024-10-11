@@ -113,6 +113,7 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 101. [Challenging Mathematical Problems With Elementary Solutions Vol. 1](https://archive.org/details/yaglom-yaglom-challenging-mathematical-problems-with-elementary-solutions-vol.-1) by A. M. Yaglom; I. M. Yaglom
 102. [mathematics can be fun-1](https://archive.org/details/MathematicsCanBeFun-1) by Yakov Perelman
 103. [Worked Problems In Applied Mathematics](https://archive.org/details/n.-n.-lebedev-i.-p.-skalskaya-y.-s.-uflyand-worked-problems-in-applied-mathematics-1965) by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand [pdf](https://mega.nz/file/r9M3DQYS#d92_lQNanEr6wP0IamUV1qVxkCxHlMAnLI592yZbM0Q)
+104. [Selected Problems On Discrete Mathematics](https://archive.org/details/gavrilov-sapozhenko-selected-problems-on-discrete-mathematics-mir-1989) by G. P. Gavrilov; A. A. Sapozhenko
      
 
 
