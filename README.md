@@ -116,7 +116,10 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 104. [Selected Problems On Discrete Mathematics](https://archive.org/details/gavrilov-sapozhenko-selected-problems-on-discrete-mathematics-mir-1989) by G. P. Gavrilov; A. A. Sapozhenko
 105. [Mistakes in Geometric Proofs](https://archive.org/details/dubnov-mistakes-in-geometric-proofs-topics-in-mathematics) by Dubnov
 106. [Mathematical Problems And Puzzles from the Polish Mathematical Olympiads (Popular Lectures in Mathematics Vol 10)](https://archive.org/details/straszewicz-mathematical-problems-and-puzzles) by Straszewicz
-     
+107. [One Hundred Problems In Elementary Mathematics (Popular Lectures in Mathematics Vol. 7)](https://archive.org/details/steinhaus-one-hundred-problems-in-elementary-mathematics) by Steinhaus
+108. [Mathematical Foundations of Statistical Mechanics](https://archive.org/details/khinchin-mathematical-foundations-of-statistical-mechanics/) by A. I. Khinchin.
+
+
 
 
 ## Physics
