@@ -114,6 +114,8 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 102. [mathematics can be fun-1](https://archive.org/details/MathematicsCanBeFun-1) by Yakov Perelman
 103. [Worked Problems In Applied Mathematics](https://archive.org/details/n.-n.-lebedev-i.-p.-skalskaya-y.-s.-uflyand-worked-problems-in-applied-mathematics-1965) by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand [pdf](https://mega.nz/file/r9M3DQYS#d92_lQNanEr6wP0IamUV1qVxkCxHlMAnLI592yZbM0Q)
 104. [Selected Problems On Discrete Mathematics](https://archive.org/details/gavrilov-sapozhenko-selected-problems-on-discrete-mathematics-mir-1989) by G. P. Gavrilov; A. A. Sapozhenko
+105. [Mistakes in Geometric Proofs](https://archive.org/details/dubnov-mistakes-in-geometric-proofs-topics-in-mathematics) by Dubnov
+106. [Mathematical Problems And Puzzles from the Polish Mathematical Olympiads (Popular Lectures in Mathematics Vol 10)](https://archive.org/details/straszewicz-mathematical-problems-and-puzzles) by Straszewicz
      
 
 
