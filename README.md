@@ -1,5 +1,9 @@
 # Awesome_Math_Books
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=valeman/Awesome_Math_Books&type=Date)](https://star-history.com/#valeman/Awesome_Math_Books&Date)
+
 ## [Table of Contents]()
 
 * [Probability](#probability)
