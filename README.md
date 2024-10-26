@@ -6,9 +6,9 @@
 
 ## [Table of Contents]()
 
-* [Probability](#probability)
+* [Math](#math)
 
-## Probability
+## Math
 
 1. [Probability - First Steps](https://archive.org/details/ProbabilityTheoryfirstSteps/page/n9/mode/2up) by E.S. Wentzel 🔥🔥🔥🔥🔥
 2. [Applied Problems in Probability Theory](https://archive.org/details/wentzel-ovcharov-applied-problems-in-probability-theory/page/83/mode/2up) by Wentzel and Ovcharov
@@ -122,6 +122,7 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 106. [Mathematical Problems And Puzzles from the Polish Mathematical Olympiads (Popular Lectures in Mathematics Vol 10)](https://archive.org/details/straszewicz-mathematical-problems-and-puzzles) by Straszewicz
 107. [One Hundred Problems In Elementary Mathematics (Popular Lectures in Mathematics Vol. 7)](https://archive.org/details/steinhaus-one-hundred-problems-in-elementary-mathematics) by Steinhaus
 108. [Mathematical Foundations of Statistical Mechanics](https://archive.org/details/khinchin-mathematical-foundations-of-statistical-mechanics/) by A. I. Khinchin.
+109. [A Problem Book In Algebra](https://archive.org/details/v.-a.-krechmar-a-problem-book-in-algebra-mir-1978) by Krechmar
 
 
 
