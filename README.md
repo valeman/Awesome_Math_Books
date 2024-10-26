@@ -123,6 +123,7 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 107. [One Hundred Problems In Elementary Mathematics (Popular Lectures in Mathematics Vol. 7)](https://archive.org/details/steinhaus-one-hundred-problems-in-elementary-mathematics) by Steinhaus
 108. [Mathematical Foundations of Statistical Mechanics](https://archive.org/details/khinchin-mathematical-foundations-of-statistical-mechanics/) by A. I. Khinchin.
 109. [A Problem Book In Algebra](https://archive.org/details/v.-a.-krechmar-a-problem-book-in-algebra-mir-1978) by Krechmar
+110. [Algebra](https://archive.org/details/algebra0000lang) by Serg Lange
 
 
 
