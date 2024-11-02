@@ -126,6 +126,8 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 110. [Algebra](https://archive.org/details/algebra0000lang) by Serg Lange
 111. [Interpretations Of Probability](https://archive.org/details/interpretations-of-probability-2003/page/n1/mode/2up) by Khrennikov (2003)
 112. [Applied Probability](https://archive.org/details/ost-math-col10708/mode/2up) by Paul Pfeiffer
+113. [Introduction to probability](https://archive.org/details/introductiontopr0000freu_s9u6) by John Freund
+114. [Probability](https://archive.org/details/probability0000unse_s2l6/page/n3/mode/2up) by Leo Breiman
 
 
 
