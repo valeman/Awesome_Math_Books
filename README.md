@@ -155,6 +155,7 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 139.  [Introductory Mathematics Books by Israel M. Gelfand - Collection](https://archive.org/details/gelfand-math-book-collection/Gelfand%2C%20I.%20M.%2C%20Fomin%2C%20S.%20V.%20-%20Calculus%20of%20Variations%20%281963%2C%20prentice-hall%29%20-%20libgen.li/) 
 by Israel M. Gelfand
 140. [Mathematical Logic](https://archive.org/details/ErshovPalyutinMathematicalLogicMir1984) by Yu. L. Ershov, E. A. Palyutin
+141. [Problems in the calculus, with formulas and suggestions](https://archive.org/details/cu31924031220217) by Leib, David D. (David Deitch) (1915)
    
 
 
