@@ -136,6 +136,25 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 120. [Introductory Calculus Textbook Collection](https://archive.org/details/introductory-calculus-book-collection/%28Calculus%29%20Michael%20Spivak%20-%20Combined%20Answer%20Book%20for%20Calculus%20Third%20and%20Fourth%20Editions/) by Michael Spivak
 121. [MATHEMATICS FOR MACHINE LEARNING](https://archive.org/details/mml-book_202310/page/22/mode/2up) by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
 122. [Fundamentals Of Linear Algebra And Analytical Geometry](Fundamentals Of Linear Algebra And Analytical Geometry) by Bugrov and Nikolsky
+123. [An Algebra for Secondary Schools](https://archive.org/details/analgebraforsec00hedrgoog/page/n16/mode/2up) by Earle Raymond Hedrick (1908)
+124. [Linear Algebra with Elements of Analytic Geometry](https://archive.org/details/B-001-024-320) by A.S. Solodovnikov, G.A. Toropova
+125. [Pure mathematics, Part I](https://archive.org/details/frank-gerrish.-pure-mathematics-vol-1) by Frank Gerrish
+126. [Pure mathematics, Part II](https://archive.org/details/frank-gerrish.-pure-mathematics-vol-2/mode/2up) by Frank Gerrish
+
+   
+
+ Pure mathematics. 1
+by Frank Gerrish
+
+   
+
+ Pure mathematics. 1
+by Frank Gerrish
+
+   
+
+ Pure mathematics. 1
+by Frank Gerrish
 
 ## Physics
 1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
