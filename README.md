@@ -128,6 +128,8 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 112. [Applied Probability](https://archive.org/details/ost-math-col10708/mode/2up) by Paul Pfeiffer
 113. [Introduction to probability](https://archive.org/details/introductiontopr0000freu_s9u6) by John Freund
 114. [Probability](https://archive.org/details/probability0000unse_s2l6/page/n3/mode/2up) by Leo Breiman
+115. [A Treatise of Probability](https://www.gutenberg.org/files/32625/32625-pdf.pdf) by John Maynard Keynes
+116. [Geometrical probability](https://archive.org/details/geometricalproba033077mbp/page/n5/mode/2up) by Kendall & Moran
 
 
 
