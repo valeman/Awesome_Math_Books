@@ -124,7 +124,7 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 108. [Mathematical Foundations of Statistical Mechanics](https://archive.org/details/khinchin-mathematical-foundations-of-statistical-mechanics/) by A. I. Khinchin.
 109. [A Problem Book In Algebra](https://archive.org/details/v.-a.-krechmar-a-problem-book-in-algebra-mir-1978) by Krechmar
 110. [Algebra](https://archive.org/details/algebra0000lang) by Serg Lange
-
+111. [Elementary probability with applications](https://archive.org/details/elementaryprobab0000rabi) by Larry Rabinowitz
 
 
 
