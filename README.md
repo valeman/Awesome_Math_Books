@@ -130,8 +130,11 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 114. [Probability](https://archive.org/details/probability0000unse_s2l6/page/n3/mode/2up) by Leo Breiman
 115. [A Treatise of Probability](https://www.gutenberg.org/files/32625/32625-pdf.pdf) by John Maynard Keynes
 116. [Geometrical probability](https://archive.org/details/geometricalproba033077mbp/page/n5/mode/2up) by Kendall & Moran
-
-
+117. [Problems In Linear Algebra](https://archive.org/details/ProskuryakovProblemsInLinearAlgebra/page/n53/mode/2up) by I. V. Proskuryakov
+118. [Linear Algebra](https://archive.org/details/VoyevodinLinearAlgebraMir1983/page/n3/mode/2up) by V. V. Voyevodin
+119. [Linear algebra with applications](https://archive.org/details/2018LinearAlgebraWithApplications/mode/2up) by Keith Nicholson
+120. [Introductory Calculus Textbook Collection](https://archive.org/details/introductory-calculus-book-collection/%28Calculus%29%20Michael%20Spivak%20-%20Combined%20Answer%20Book%20for%20Calculus%20Third%20and%20Fourth%20Editions/) by Michael Spivak
+121. [MATHEMATICS FOR MACHINE LEARNING](https://archive.org/details/mml-book_202310/page/22/mode/2up) by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
 
 
 ## Physics
