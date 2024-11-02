@@ -133,28 +133,31 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 117. [Problems In Linear Algebra](https://archive.org/details/ProskuryakovProblemsInLinearAlgebra/page/n53/mode/2up) by I. V. Proskuryakov
 118. [Linear Algebra](https://archive.org/details/VoyevodinLinearAlgebraMir1983/page/n3/mode/2up) by V. V. Voyevodin
 119. [Linear algebra with applications](https://archive.org/details/2018LinearAlgebraWithApplications/mode/2up) by Keith Nicholson
-120. [Introductory Calculus Textbook Collection](https://archive.org/details/introductory-calculus-book-collection/%28Calculus%29%20Michael%20Spivak%20-%20Combined%20Answer%20Book%20for%20Calculus%20Third%20and%20Fourth%20Editions/) by Michael Spivak
-121. [MATHEMATICS FOR MACHINE LEARNING](https://archive.org/details/mml-book_202310/page/22/mode/2up) by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
-122. [Fundamentals Of Linear Algebra And Analytical Geometry](Fundamentals Of Linear Algebra And Analytical Geometry) by Bugrov and Nikolsky
-123. [An Algebra for Secondary Schools](https://archive.org/details/analgebraforsec00hedrgoog/page/n16/mode/2up) by Earle Raymond Hedrick (1908)
-124. [Linear Algebra with Elements of Analytic Geometry](https://archive.org/details/B-001-024-320) by A.S. Solodovnikov, G.A. Toropova
-125. [Pure mathematics, Part I](https://archive.org/details/frank-gerrish.-pure-mathematics-vol-1) by Frank Gerrish
-126. [Pure mathematics, Part II](https://archive.org/details/frank-gerrish.-pure-mathematics-vol-2/mode/2up) by Frank Gerrish
-
+120. [Calculus](https://archive.org/details/CalculusSpivak/mode/2up) by Spivak 
+121. [Introductory Calculus Textbook Collection](https://archive.org/details/introductory-calculus-book-collection/%28Calculus%29%20Michael%20Spivak%20-%20Combined%20Answer%20Book%20for%20Calculus%20Third%20and%20Fourth%20Editions/) by Michael Spivak
+122. [MATHEMATICS FOR MACHINE LEARNING](https://archive.org/details/mml-book_202310/page/22/mode/2up) by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
+123. [Fundamentals Of Linear Algebra And Analytical Geometry](Fundamentals Of Linear Algebra And Analytical Geometry) by Bugrov and Nikolsky
+124. [An Algebra for Secondary Schools](https://archive.org/details/analgebraforsec00hedrgoog/page/n16/mode/2up) by Earle Raymond Hedrick (1908)
+125. [Linear Algebra with Elements of Analytic Geometry](https://archive.org/details/B-001-024-320) by A.S. Solodovnikov, G.A. Toropova
+126. [Pure mathematics, Part I](https://archive.org/details/frank-gerrish.-pure-mathematics-vol-1) by Frank Gerrish
+127. [Pure mathematics, Part II](https://archive.org/details/frank-gerrish.-pure-mathematics-vol-2/mode/2up) by Frank Gerrish
+128. [Calculus of a Single Variable](https://archive.org/details/CALCULUS10THEDITIONRONLARSON/mode/2up)
+129. [The Colossal Book Of Mathematics](https://archive.org/details/martingardnerthecolossalbookofmathematics/mode/2up) by Martin Gardner
+130. [Calculus Made Easy](https://www.gutenberg.org/ebooks/33283) by Silvanus P. Thompson
+131. [Book Of Proof](https://archive.org/details/BookOfProof2013) by Richard H. Hammack
+132. [Problems In Higher Mathematics](https://archive.org/details/ProblemsInHigherMathematicsMinorsky) by V. P. Minorsky
+133. [Complete solutions manual for Stewart's calculus](https://archive.org/details/completesolution0000unse_w7c7)
+134. [Methods Of Solving Problems In High School Mathematics](https://archive.org/details/tsypkin-pinsky-methods-of-solving-problems-in-high-school-mathematics-mir) by A. G. Tsypkin; A. I. Pinsky
+135. [Trigonometric Functions - a problem solving approach](https://archive.org/details/TrigonometricFunctions-ProblemSolvingApproach/mode/2up) by Panchishkin and Shavgulidze
+136. [Vector Analysis](https://archive.org/details/KrasnovKiselievMakarenkoVectorAnalysisMir1983) by M.L. Krasnov; A.I. Kiselev; G.I. Makarenko.
+137. [Learn Limits Through Problems! ( Pocket Mathematical Library Workbook 2)](https://archive.org/details/learn-limits-through-problems-pocket-mathematical-library-workbook-2) by S. I. Gelfand; M. L. Gerver; A. A. Kirillov; N. N. Konstantinov; A.G. Kushnirenko
+138. [Sequences And Combinatorial Problems ( Pocket Mathematical Library Workbook 1)](https://archive.org/details/sequences-and-combinatorial-problems-pocket-mathematical-library-workbook-1)  by S. I. Gelfand; M. L. Gerver; A. A. Kirillov; N. N. Konstantinov; A.G. Kushnirenko
+139.  [Introductory Mathematics Books by Israel M. Gelfand - Collection](https://archive.org/details/gelfand-math-book-collection/Gelfand%2C%20I.%20M.%2C%20Fomin%2C%20S.%20V.%20-%20Calculus%20of%20Variations%20%281963%2C%20prentice-hall%29%20-%20libgen.li/) 
+by Israel M. Gelfand
+140. [Mathematical Logic](https://archive.org/details/ErshovPalyutinMathematicalLogicMir1984) by Yu. L. Ershov, E. A. Palyutin
    
 
- Pure mathematics. 1
-by Frank Gerrish
 
-   
-
- Pure mathematics. 1
-by Frank Gerrish
-
-   
-
- Pure mathematics. 1
-by Frank Gerrish
 
 ## Physics
 1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
