@@ -157,7 +157,8 @@ by Israel M. Gelfand
 140. [Mathematical Logic](https://archive.org/details/ErshovPalyutinMathematicalLogicMir1984) by Yu. L. Ershov, E. A. Palyutin
 141. [Problems in the calculus, with formulas and suggestions](https://archive.org/details/cu31924031220217) by Leib, David D. (David Deitch) (1915)
 142. [Linear Algebra A Course for Physicists and Engineers](https://library.oapen.org/bitstream/handle/20.500.12657/59523/9783110562507.pdf?sequence=1&isAllowed=y) by Arak M. Mathai, Hans J. Haubold
-143. [A history of mathematics](https://archive.org/details/historyofmathema0000boye_v7s4) by Boyer, Carl 
+143. [A history of mathematics](https://archive.org/details/historyofmathema0000boye_v7s4) by Boyer, Carl
+144. [Fourier series](https://archive.org/details/tolstov-fourier-series-1962) by Tolstov
 
 
 ## Physics
