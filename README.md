@@ -160,7 +160,7 @@ by Israel M. Gelfand
 143. [A history of mathematics](https://archive.org/details/historyofmathema0000boye_v7s4) by Boyer, Carl
 144. [Fourier series](https://archive.org/details/tolstov-fourier-series-1962) by Tolstov
 145. [Problems In Elementary Mathematics For Home Study](https://archive.org/details/AntonovVygodskyNikitinSankinProblemsInElementaryMathematicsForHomeStudyMir1982j) by N. Antonov; M. Vygodsky; V. Nikitin; A. Sankin
-
+146. [Introduction to algebra](https://archive.org/details/introductiontoal0000kost/page/n5/mode/2up) by Kostrikin, A. I. (Alekseĭ Ivanovich)
 
 ## Physics
 1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
