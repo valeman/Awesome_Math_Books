@@ -159,6 +159,7 @@ by Israel M. Gelfand
 142. [Linear Algebra A Course for Physicists and Engineers](https://library.oapen.org/bitstream/handle/20.500.12657/59523/9783110562507.pdf?sequence=1&isAllowed=y) by Arak M. Mathai, Hans J. Haubold
 143. [A history of mathematics](https://archive.org/details/historyofmathema0000boye_v7s4) by Boyer, Carl
 144. [Fourier series](https://archive.org/details/tolstov-fourier-series-1962) by Tolstov
+145. [Problems In Elementary Mathematics For Home Study](https://archive.org/details/AntonovVygodskyNikitinSankinProblemsInElementaryMathematicsForHomeStudyMir1982j) by N. Antonov; M. Vygodsky; V. Nikitin; A. Sankin
 
 
 ## Physics
@@ -186,6 +187,7 @@ by L. D. Landau, A. I. Kitaigorodsky
 19. [Questions And Answers In School Physics](https://archive.org/details/QuestionsAndAnswersInSchoolPhysics) by L. V. Tarasov, A. Tarasova
 20. [Theoretical Mechanics](https://archive.org/details/n.-g.-chetaev-theoretical-mechanics-mir-1987)by N. G. Chetaev
 21. [Basic Concepts Of Quantum Mechanics](https://archive.org/details/tarasov-basic-concepts-of-quantum-mechanics-2021) by L. V. Tarasov
+22. [
 
    
 
