@@ -162,6 +162,9 @@ by Israel M. Gelfand
 145. [Problems In Elementary Mathematics For Home Study](https://archive.org/details/AntonovVygodskyNikitinSankinProblemsInElementaryMathematicsForHomeStudyMir1982j) by N. Antonov; M. Vygodsky; V. Nikitin; A. Sankin
 146. [Introduction to algebra](https://archive.org/details/introductiontoal0000kost/page/n5/mode/2up) by Kostrikin, A. I. (Alekseĭ Ivanovich)
 147. [Selected Problems And Theorems In Elementary Mathematics](https://archive.org/details/selected-problems-and-theorems-in-elementary-mathematics/mode/2up) by D. O. Shklyarsky, N. N. Chentsov, I. M. Yaglom
+148. [Introduction To Physics ( 2nd Ed.)](https://archive.org/details/a.-kitaigorodsky-introduction-to-physics-2nd-ed.-mir-1981)
+by A. Kitaigorodsky
+
 
 ## Physics
 1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
