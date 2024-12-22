@@ -164,6 +164,10 @@ by Israel M. Gelfand
 147. [Selected Problems And Theorems In Elementary Mathematics](https://archive.org/details/selected-problems-and-theorems-in-elementary-mathematics/mode/2up) by D. O. Shklyarsky, N. N. Chentsov, I. M. Yaglom
 148. [Introduction To Physics ( 2nd Ed.)](https://archive.org/details/a.-kitaigorodsky-introduction-to-physics-2nd-ed.-mir-1981)
 by A. Kitaigorodsky
+149. [Problems in geometry](https://archive.org/details/ModenovProblemsInGeometryMir1981) by Modenov
+150. [A Brief Course In Analytic Geometry](https://archive.org/details/yefimov-a-brief-course-in-analytic-geometry) by Yefimov
+151. [ Lectures On The Theory Of Functions Of A Complex Variable](https://archive.org/details/SidorovFedoryukShabuninLecturesOnTheTheoryOfFunctionsOfAComplexVariable) by Yu. V. Sidorov, M. V. Fedoryuk, M. I. Shabunin
+152. [Problems in Mathematical Statistics](https://archive.org/details/ProblemsInMathematicalStatistics/page/n7/mode/2up) by G. I. Ivchenko, Yu. I. Medvedev, A. V. Chistyakov
 
 
 ## Physics
