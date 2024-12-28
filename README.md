@@ -154,20 +154,19 @@ by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 138. [Sequences And Combinatorial Problems ( Pocket Mathematical Library Workbook 1)](https://archive.org/details/sequences-and-combinatorial-problems-pocket-mathematical-library-workbook-1)  by S. I. Gelfand; M. L. Gerver; A. A. Kirillov; N. N. Konstantinov; A.G. Kushnirenko
 139.  [Introductory Mathematics Books by Israel M. Gelfand - Collection](https://archive.org/details/gelfand-math-book-collection/Gelfand%2C%20I.%20M.%2C%20Fomin%2C%20S.%20V.%20-%20Calculus%20of%20Variations%20%281963%2C%20prentice-hall%29%20-%20libgen.li/) 
 by Israel M. Gelfand
-140. [Mathematical Logic](https://archive.org/details/ErshovPalyutinMathematicalLogicMir1984) by Yu. L. Ershov, E. A. Palyutin
-141. [Problems in the calculus, with formulas and suggestions](https://archive.org/details/cu31924031220217) by Leib, David D. (David Deitch) (1915)
-142. [Linear Algebra A Course for Physicists and Engineers](https://library.oapen.org/bitstream/handle/20.500.12657/59523/9783110562507.pdf?sequence=1&isAllowed=y) by Arak M. Mathai, Hans J. Haubold
-143. [A history of mathematics](https://archive.org/details/historyofmathema0000boye_v7s4) by Boyer, Carl
-144. [Fourier series](https://archive.org/details/tolstov-fourier-series-1962) by Tolstov
-145. [Problems In Elementary Mathematics For Home Study](https://archive.org/details/AntonovVygodskyNikitinSankinProblemsInElementaryMathematicsForHomeStudyMir1982j) by N. Antonov; M. Vygodsky; V. Nikitin; A. Sankin
-146. [Introduction to algebra](https://archive.org/details/introductiontoal0000kost/page/n5/mode/2up) by Kostrikin, A. I. (Alekseĭ Ivanovich)
-147. [Selected Problems And Theorems In Elementary Mathematics](https://archive.org/details/selected-problems-and-theorems-in-elementary-mathematics/mode/2up) by D. O. Shklyarsky, N. N. Chentsov, I. M. Yaglom
-148. [Introduction To Physics ( 2nd Ed.)](https://archive.org/details/a.-kitaigorodsky-introduction-to-physics-2nd-ed.-mir-1981)
+140. [Problems in the calculus, with formulas and suggestions](https://archive.org/details/cu31924031220217) by Leib, David D. (David Deitch) (1915)
+141.  [Linear Algebra A Course for Physicists and Engineers](https://library.oapen.org/bitstream/handle/20.500.12657/59523/9783110562507.pdf?sequence=1&isAllowed=y) by Arak M. Mathai, Hans J. Haubold
+142.   A history of mathematics](https://archive.org/details/historyofmathema0000boye_v7s4) by Boyer, Carl
+143.    [Fourier series](https://archive.org/details/tolstov-fourier-series-1962) by Tolstov
+144. [Problems In Elementary Mathematics For Home Study](https://archive.org/details/AntonovVygodskyNikitinSankinProblemsInElementaryMathematicsForHomeStudyMir1982j) by N. Antonov; M. Vygodsky; V. Nikitin; A. Sankin
+145.  [Introduction to algebra](https://archive.org/details/introductiontoal0000kost/page/n5/mode/2up) by Kostrikin, A. I. (Alekseĭ Ivanovich)
+146.   [Selected Problems And Theorems In Elementary Mathematics](https://archive.org/details/selected-problems-and-theorems-in-elementary-mathematics/mode/2up) by D. O. Shklyarsky, N. N. Chentsov, I. M. Yaglom
+147.    [Introduction To Physics ( 2nd Ed.)](https://archive.org/details/a.-kitaigorodsky-introduction-to-physics-2nd-ed.-mir-1981)
 by A. Kitaigorodsky
-149. [Problems in geometry](https://archive.org/details/ModenovProblemsInGeometryMir1981) by Modenov
-150. [A Brief Course In Analytic Geometry](https://archive.org/details/yefimov-a-brief-course-in-analytic-geometry) by Yefimov
-151. [ Lectures On The Theory Of Functions Of A Complex Variable](https://archive.org/details/SidorovFedoryukShabuninLecturesOnTheTheoryOfFunctionsOfAComplexVariable) by Yu. V. Sidorov, M. V. Fedoryuk, M. I. Shabunin
-152. [Problems in Mathematical Statistics](https://archive.org/details/ProblemsInMathematicalStatistics/page/n7/mode/2up) by G. I. Ivchenko, Yu. I. Medvedev, A. V. Chistyakov
+148. [Problems in geometry](https://archive.org/details/ModenovProblemsInGeometryMir1981) by Modenov
+149.  [A Brief Course In Analytic Geometry](https://archive.org/details/yefimov-a-brief-course-in-analytic-geometry) by Yefimov
+150.   [ Lectures On The Theory Of Functions Of A Complex Variable](https://archive.org/details/SidorovFedoryukShabuninLecturesOnTheTheoryOfFunctionsOfAComplexVariable) by Yu. V. Sidorov, M. V. Fedoryuk, M. I. Shabunin
+151.    [Problems in Mathematical Statistics](https://archive.org/details/ProblemsInMathematicalStatistics/page/n7/mode/2up) by G. I. Ivchenko, Yu. I. Medvedev, A. V. Chistyakov
 
 
 ## Physics
