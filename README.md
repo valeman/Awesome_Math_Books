@@ -169,6 +169,7 @@ by A. Kitaigorodsky
 151.    [Problems in Mathematical Statistics](https://archive.org/details/ProblemsInMathematicalStatistics/page/n7/mode/2up) by G. I. Ivchenko, Yu. I. Medvedev, A. V. Chistyakov
 152. [Lectures In Geometry Semester I Analytic Geometry](https://archive.org/details/postnikov-lectures-in-geometry-semester-i) by M. Postnikov
 153. [Lectures In Geometry: Semester II - Linear Algebra And Differential Geometry](https://archive.org/details/postnikov-lectures-in-geometry-semester-ii-linear-algebra-and-differential-geometry/page/83/mode/2up) by M. Postnikov
+154. [Elementary real and complex analysis](https://archive.org/details/elementaryrealco0000shil) by Shilov
 
 
 ## Physics
