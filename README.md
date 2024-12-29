@@ -167,6 +167,8 @@ by A. Kitaigorodsky
 149.  [A Brief Course In Analytic Geometry](https://archive.org/details/yefimov-a-brief-course-in-analytic-geometry) by Yefimov
 150.   [ Lectures On The Theory Of Functions Of A Complex Variable](https://archive.org/details/SidorovFedoryukShabuninLecturesOnTheTheoryOfFunctionsOfAComplexVariable) by Yu. V. Sidorov, M. V. Fedoryuk, M. I. Shabunin
 151.    [Problems in Mathematical Statistics](https://archive.org/details/ProblemsInMathematicalStatistics/page/n7/mode/2up) by G. I. Ivchenko, Yu. I. Medvedev, A. V. Chistyakov
+152. [Lectures In Geometry Semester I Analytic Geometry](https://archive.org/details/postnikov-lectures-in-geometry-semester-i) by M. Postnikov
+153. [Lectures In Geometry: Semester II - Linear Algebra And Differential Geometry](https://archive.org/details/postnikov-lectures-in-geometry-semester-ii-linear-algebra-and-differential-geometry/page/83/mode/2up) by M. Postnikov
 
 
 ## Physics
