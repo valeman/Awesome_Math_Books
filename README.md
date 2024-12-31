@@ -171,6 +171,7 @@ by A. Kitaigorodsky
 153. [Lectures In Geometry: Semester II - Linear Algebra And Differential Geometry](https://archive.org/details/postnikov-lectures-in-geometry-semester-ii-linear-algebra-and-differential-geometry/page/83/mode/2up) by M. Postnikov
 154. [Elementary real and complex analysis](https://archive.org/details/elementaryrealco0000shil) by Shilov
 155. [Mathematical Analysis - Differentiation And Integration](https://archive.org/details/aramanovich-guter-lyusternik-raukhvarger-skanavi-yanpolskii-mathematical-analysi) by I. G. Aramanovich; R.S.Guter; L.A.Lyusternik; I.L. Raukhvarger; M. I. Skanavi; A. R.Yanpol'skii
+156. [Optimal control](https://archive.org/details/optimalcontrol0000alek) by Alekseev, Tikhomirov and Fomin.
 
 ## Physics
 1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
