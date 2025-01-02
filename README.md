@@ -172,6 +172,7 @@ by A. Kitaigorodsky
 154. [Elementary real and complex analysis](https://archive.org/details/elementaryrealco0000shil) by Shilov
 155. [Mathematical Analysis - Differentiation And Integration](https://archive.org/details/aramanovich-guter-lyusternik-raukhvarger-skanavi-yanpolskii-mathematical-analysi) by I. G. Aramanovich; R.S.Guter; L.A.Lyusternik; I.L. Raukhvarger; M. I. Skanavi; A. R.Yanpol'skii
 156. [Optimal control](https://archive.org/details/optimalcontrol0000alek) by Alekseev, Tikhomirov and Fomin.
+157. [An Introduction To Information Theory](https://archive.org/details/in.ernet.dli.2015.459017/mode/2up) by Reza, Fazlollah M.
 
 ## Physics
 1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
