@@ -7,6 +7,8 @@
 ## [Table of Contents]()
 
 * [Math](#math)
+* [Physics](#physics)
+* [Econometrics](#econpmetrics)
 
 ## Math
 
@@ -202,6 +204,10 @@ by L. D. Landau, A. I. Kitaigorodsky
 20. [Theoretical Mechanics](https://archive.org/details/n.-g.-chetaev-theoretical-mechanics-mir-1987)by N. G. Chetaev
 21. [Basic Concepts Of Quantum Mechanics](https://archive.org/details/tarasov-basic-concepts-of-quantum-mechanics-2021) by L. V. Tarasov
 22. [
+
+## Econometrics
+1. [Basic Econometrics](http://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf) by Riccardo (Jack) Lucchetti (2024)
+
 
    
 
