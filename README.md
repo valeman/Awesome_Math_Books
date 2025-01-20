@@ -8,7 +8,7 @@
 
 * [Math](#math)
 * [Physics](#physics)
-* [Econometrics](#econpmetrics)
+* [Econometrics](#econometrics)
 
 ## Math
 
