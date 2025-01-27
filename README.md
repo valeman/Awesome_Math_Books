@@ -82,14 +82,15 @@ by Prilepko
 67. [High School Mathematics Part 2](https://archive.org/details/g.-n.-yakovlev-ed.-high-school-mathematics-part-2-mir-1988) by G. N. Yakovlev ( Ed.) 🔥🔥🔥🔥🔥
 68. [Solving Problems In Algebra And Trigonometry](https://archive.org/details/LitivinenkoMordkovichSolvingProblemsInAlgebraAndTrigonometryMir1988)
 by V. Litvinenko; A. Mordkovich
-69. [Fundamentals Of Mathematical Analysis](https://archive.org/details/ilyin-poznyak-fundamentals-of-mathematical-analysis)
+69. Fundamentals Of Mathematical Analysis, Part I](https://archive.org/details/v.-a.-ilyin-e.-g.-poznyak-fundamentals-of-mathematical-analysis-part-1-mir-1982) by Ilyin, Poznyak
+70. [Fundamentals Of Mathematical Analysis, Part II](https://archive.org/details/ilyin-poznyak-fundamentals-of-mathematical-analysis)
 by Ilyin, Poznyak
-70. [Questions And Problems In High School Mathematics](https://archive.org/details/l.-a.-kondratyeva-v.-s-solomonik-questions-and-problems-in-high-school-mathematics-mir-1987) by L. A. Kondratyeva; V. S. Solomonik
-71. [Differential And Integral Calculus Volume 2](https://archive.org/details/piskunov-differential-and-integral-calculus-volume-2-mir) by N. Piskunov
-72. [Solving Problems In Geometry](https://archive.org/details/GusevLitivinenkoMordkovichSolvingProblemsInGeometryMir1988) by V. Gusev; V. Litvinenko; A. Mordkovich
-73. [Sequences, Combinations, Limits (Library of School Mathematics Vol. 3)](https://archive.org/details/gelfand-et-al-sequences-combinations-limits-1969) by S.I. Gelfand; M.L. Gerver; N.N. Konstantinov; A. G. Kushnirenko; A.A. Kirillov
-74. [Worked Problems In Applied Mathematics](https://archive.org/details/n.-n.-lebedev-i.-p.-skalskaya-y.-s.-uflyand-worked-problems-in-applied-mathematics-1965/page/n5/mode/2up) by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand
-75. [Limits And Continuity ( Pocket Mathematical Library)](https://archive.org/details/korovkin-limits-and-continuity-pocket-mathematical-library)
+71. [Questions And Problems In High School Mathematics](https://archive.org/details/l.-a.-kondratyeva-v.-s-solomonik-questions-and-problems-in-high-school-mathematics-mir-1987) by L. A. Kondratyeva; V. S. Solomonik
+72. [Differential And Integral Calculus Volume 2](https://archive.org/details/piskunov-differential-and-integral-calculus-volume-2-mir) by N. Piskunov
+73. [Solving Problems In Geometry](https://archive.org/details/GusevLitivinenkoMordkovichSolvingProblemsInGeometryMir1988) by V. Gusev; V. Litvinenko; A. Mordkovich
+74. [Sequences, Combinations, Limits (Library of School Mathematics Vol. 3)](https://archive.org/details/gelfand-et-al-sequences-combinations-limits-1969) by S.I. Gelfand; M.L. Gerver; N.N. Konstantinov; A. G. Kushnirenko; A.A. Kirillov
+75. [Worked Problems In Applied Mathematics](https://archive.org/details/n.-n.-lebedev-i.-p.-skalskaya-y.-s.-uflyand-worked-problems-in-applied-mathematics-1965/page/n5/mode/2up) by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand
+76. [Limits And Continuity ( Pocket Mathematical Library)](https://archive.org/details/korovkin-limits-and-continuity-pocket-mathematical-library)
 by P. P. Korovkin
 78. [Theory of matrice, Volume I](https://archive.org/details/gantmacher-the-theory-of-matrices-vol-1-1959) by Gantmacher 🔥🔥🔥🔥🔥
 79. [Theory of matrice, Volume II](https://archive.org/details/gantmacher-the-theory-of-matrices-vol-2-1959) by Gantmacher 🔥🔥🔥🔥🔥
