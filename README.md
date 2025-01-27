@@ -177,6 +177,7 @@ by A. Kitaigorodsky
 157. [An Introduction To Information Theory](https://archive.org/details/in.ernet.dli.2015.459017/mode/2up) by Reza, Fazlollah M.
 158. [The Essence of Mathematics Through Elementary Problems](https://www.openbookpublishers.com/books/10.11647/obp.0168) by Alexandre Borovik and Tony Gardiner;
 159. [Advanced Problems in Mathematics Preparing for University](https://www.openbookpublishers.com/books/10.11647/obp.0181) by Stephen Siklos
+160. [Concrete Mathematics](https://archive.org/details/concrete-mathematics) by Donald Knuth
 
 ## Physics
 1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
