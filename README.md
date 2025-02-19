@@ -180,6 +180,7 @@ by A. Kitaigorodsky
 158. [The Essence of Mathematics Through Elementary Problems](https://www.openbookpublishers.com/books/10.11647/obp.0168) by Alexandre Borovik and Tony Gardiner;
 159. [Advanced Problems in Mathematics Preparing for University](https://www.openbookpublishers.com/books/10.11647/obp.0181) by Stephen Siklos
 160. [Concrete Mathematics](https://archive.org/details/concrete-mathematics) by Donald Knuth
+161. [Sequences, Combinations, Limits (Library of School Mathematics](https://archive.org/details/gelfand-et-al-sequences-combinations-limits-1969/mode/2up) by S.I. Gelfand; M.L. Gerver; N.N. Konstantinov; A. G. Kushnirenko; A.A. Kirillov
 
 ## Physics
 1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
