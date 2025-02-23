@@ -181,6 +181,9 @@ by A. Kitaigorodsky
 159. [Advanced Problems in Mathematics Preparing for University](https://www.openbookpublishers.com/books/10.11647/obp.0181) by Stephen Siklos
 160. [Concrete Mathematics](https://archive.org/details/concrete-mathematics) by Donald Knuth
 161. [Sequences, Combinations, Limits (Library of School Mathematics](https://archive.org/details/gelfand-et-al-sequences-combinations-limits-1969/mode/2up) by S.I. Gelfand; M.L. Gerver; N.N. Konstantinov; A. G. Kushnirenko; A.A. Kirillov
+162. [Problems In Differential Geometry And Topology](https://archive.org/details/ASMishchenkoYu.P.SolovyevATFomenkoProblemsInDifferentialGeometryAndTopologyMirPublishers1985/mode/2up)
+by A. S. Mishchenko, Yu. P. Solovyev, A. T. Fomenko
+163. [250 problems in elementary number theory](https://archive.org/details/250problemsinele0000sier) by Sierpiński, Wacław, 1882-)
 
 ## Physics
 1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
