@@ -185,6 +185,7 @@ by A. Kitaigorodsky
 by A. S. Mishchenko, Yu. P. Solovyev, A. T. Fomenko
 163. [250 problems in elementary number theory](https://archive.org/details/250problemsinele0000sier) by Sierpiński, Wacław, 1882-)
 164. [Theory Of Markov Processes](https://archive.org/details/dynkin-theory-of-markov-processes) by Dynkin
+165. [Markov processes theorems and problems](https://people.math.harvard.edu/~ctm/home/text/class/harvard/219/21/html/home/sources/dynkin.pdf) Dynkin and Yushkevich 
 
 ## Physics
 1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
