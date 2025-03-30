@@ -186,7 +186,10 @@ by A. S. Mishchenko, Yu. P. Solovyev, A. T. Fomenko
 163. [250 problems in elementary number theory](https://archive.org/details/250problemsinele0000sier) by Sierpiński, Wacław, 1882-)
 164. [Theory Of Markov Processes](https://archive.org/details/dynkin-theory-of-markov-processes) by Dynkin
 165. [Markov processes theorems and problems](https://people.math.harvard.edu/~ctm/home/text/class/harvard/219/21/html/home/sources/dynkin.pdf) Dynkin and Yushkevich
-166. [Problems In Descriptive Geometry](Problems In Descriptive Geometry) Arustamov
+166. 166. [Problems In Descriptive Geometry](https://archive.org/details/arustamov-problems-in-descriptive-geometry-mir-1972/mode/2up) Arustamov
+167. [Mathematics Its Contents Methods And Meaning Vol 1 2 and 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201/mode/2up) 
+by Aleksandrov, Kolmogorov and Lavren'iev
+
 
      
 ## Physics
