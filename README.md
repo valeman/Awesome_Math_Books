@@ -189,6 +189,8 @@ by A. S. Mishchenko, Yu. P. Solovyev, A. T. Fomenko
 166. 166. [Problems In Descriptive Geometry](https://archive.org/details/arustamov-problems-in-descriptive-geometry-mir-1972/mode/2up) Arustamov
 167. [Mathematics Its Contents Methods And Meaning Vol 1 2 and 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201/mode/2up) 
 by Aleksandrov, Kolmogorov and Lavren'iev
+168. [Solving Problems In Algebra And Trigonometry](https://archive.org/details/LitivinenkoMordkovichSolvingProblemsInAlgebraAndTrigonometryMir1988) by V. Litvinenko; A. Mordkovich
+
 
 
      
