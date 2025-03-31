@@ -2,7 +2,9 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=valeman/Awesome_Math_Books&type=Date)](https://star-history.com/#valeman/Awesome_Math_Books&Date)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/valeman/Awesome_Math_Books?style=social)
+
 
 ## [Table of Contents]()
 
