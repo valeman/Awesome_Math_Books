@@ -196,6 +196,10 @@ by Aleksandrov, Kolmogorov and Lavren'iev
 168. [Solving Problems In Algebra And Trigonometry](https://archive.org/details/LitivinenkoMordkovichSolvingProblemsInAlgebraAndTrigonometryMir1988) by V. Litvinenko; A. Mordkovich
 169. [Linear Algebra Problem Book](https://archive.org/details/linearalgebrapro0000halm_w2r8/mode/2up) by Paul Halmos
 170. [Higher Mathematics for Beginners and Its Application to Physics – Yakov Zeldovich (1973)](https://archive.org/details/zeldovich-higher-mathematics-for-beginners-and-its-application-to-physics-mir-1973)
+171. [A Course Of Mathematical Analysis Vol 1](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-1-mir?utm_source=chatgpt.com) by S. M. Nikolsky (MIPT core mathematical analysis textbook) 🔥🔥🔥🔥🔥
+172. [[A Course Of Mathematical Analysis Vol 1]](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-2-mir) by by S. M. Nikolsky  (MIPT core mathematical analysis textbook) 🔥🔥🔥🔥🔥
+173. [Problems In Elementary Mathematics]([https://archive.org/details/ProblemsInMathematicsByV.Lidskii](https://archive.org/details/LidskyOvsyannikovTuliakovShabuninProblemsInElementaryMathematicsMirPublishers)) by V. Lidsky, L. Ovsyannikov, A. Tuliakov and M. Shabunin. A problem-solving companion that ranges across calculus, algebra, and geometry. Offers clear solutions and is perfect for deepening mathematical intuition.
+174. [A Course of Higher Mathematics – V.I. Smirnov (Vol. 1–5)][(https://archive.org/details/ACourseOfHigherMathematics](https://archive.org/search?query=creator%3A%22V.+I.+Smirnov%22)) **  One of the most rigorous and comprehensive advanced math textbooks. Topics include analysis, differential equations, and complex function theory. Excellent for math majors and graduate students.
 
 
      
