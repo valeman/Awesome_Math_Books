@@ -194,8 +194,8 @@ by A. S. Mishchenko, Yu. P. Solovyev, A. T. Fomenko
 167. [Mathematics Its Contents Methods And Meaning Vol 1 2 and 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201/mode/2up) 
 by Aleksandrov, Kolmogorov and Lavren'iev
 168. [Solving Problems In Algebra And Trigonometry](https://archive.org/details/LitivinenkoMordkovichSolvingProblemsInAlgebraAndTrigonometryMir1988) by V. Litvinenko; A. Mordkovich
-169. [Linear Algebra Problem Book](https://archive.org/details/linearalgebrapro0000halm_w2r8/mode/2up) by Paul Halmos 
-
+169. [Linear Algebra Problem Book](https://archive.org/details/linearalgebrapro0000halm_w2r8/mode/2up) by Paul Halmos
+170. [Higher Mathematics for Beginners and Its Application to Physics – Yakov Zeldovich (1973)](https://archive.org/details/zeldovich-higher-mathematics-for-beginners-and-its-application-to-physics-mir-1973)
 
 
      
@@ -227,6 +227,11 @@ by L. D. Landau, A. I. Kitaigorodsky
 22. [Berkeley physics course, Part I, Mechanics](https://archive.org/details/berkeleyphysicsc0000unse) by Charles Kittel
 23. [Berkeley physics course, Part II Electricity and Magnetism](https://archive.org/details/berkeleyphysicsc02kitt) by Charles Kittel
 24. [Lectures In Analytical Mechanics](https://archive.org/details/lectures-in-analytical-mechanics-f.-gantmacher) by F. Gantmacher
+25. [Higher Mathematics for Beginners and Its Application to Physics – Yakov Zeldovich (1973)](https://archive.org/details/zeldovich-higher-mathematics-for-beginners-and-its-application-to-physics-mir-1973)
+26. [Equations of Mathematical Physics – V. S. Vladimirov (1971)](https://archive.org/details/vladimirov-equations-of-mathematical-physics)
+27. [A Collection of Problems on the Equations of Mathematical Physics – A. V. Bitsadze & D. F. Kalinichenko (1981)](https://archive.org/details/BitsadzeKalinichenkoProblems)
+28. [Generalized Functions in Mathematical Physics – V. S. Vladimirov (1979)](https://archive.org/details/vladimirov-genaralized-equations-in-mathematical-physics)
+29. [Fun with Maths and Physics – Yakov Perelman](https://archive.org/details/funwithmathsandphysicsgnv64)
 
 ## Econometrics
 1. [Basic Econometrics](http://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf) by Riccardo (Jack) Lucchetti (2024)
