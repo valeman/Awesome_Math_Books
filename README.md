@@ -200,6 +200,15 @@ by Aleksandrov, Kolmogorov and Lavren'iev
 172. [[A Course Of Mathematical Analysis Vol 1]](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-2-mir) by by S. M. Nikolsky  (MIPT core mathematical analysis textbook) 🔥🔥🔥🔥🔥
 173. [Problems In Elementary Mathematics]([https://archive.org/details/ProblemsInMathematicsByV.Lidskii](https://archive.org/details/LidskyOvsyannikovTuliakovShabuninProblemsInElementaryMathematicsMirPublishers)) by V. Lidsky, L. Ovsyannikov, A. Tuliakov and M. Shabunin. A problem-solving companion that ranges across calculus, algebra, and geometry. Offers clear solutions and is perfect for deepening mathematical intuition.
 174. [A Course of Higher Mathematics – V.I. Smirnov (Vol. 1–5)][(https://archive.org/details/ACourseOfHigherMathematics](https://archive.org/search?query=creator%3A%22V.+I.+Smirnov%22)) **  One of the most rigorous and comprehensive advanced math textbooks. Topics include analysis, differential equations, and complex function theory. Excellent for math majors and graduate students.
+175. [The Man Who Counted – Malba Tahan]([https://archive.org/details/the-man-who-counted-malba-tahan](https://archive.org/details/TheManWhoCounted-English-MalbaTahan)) **  A mathematical Arabian Nights: enjoy fables packed with number theory, logic, and elegant problem-solving.
+176. [The Universal History of Numbers – Georges Ifrah](https://archive.org/details/universalhistory0000ifra_y2b9) **  A global, epic journey through how human beings invented and evolved number systems—brilliant and sweeping.
+177. [Zero: The Biography of a Dangerous Idea – Charles Seife](https://archive.org/details/isbn_9780670884575)**  
+  A deep dive into the philosophical and mathematical impact of the number zero, from ancient India to modern physics.
+178. [A History of Pi – Petr Beckmann](https://archive.org/details/historyofpisymbo00beck)**  
+  A quirky, passionate account of π through the ages—this cult classic blends math with snark and drama.
+179. [📘 The Triumph of Numbers – I. B. Cohen](https://archive.org/details/triumphofnumbers00cohe)**  
+  A concise but rich account of how numerical thinking reshaped economics, science, and society.
+
 
 
      
