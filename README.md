@@ -190,6 +190,7 @@ by A. S. Mishchenko, Yu. P. Solovyev, A. T. Fomenko
 167. [Mathematics Its Contents Methods And Meaning Vol 1 2 and 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201/mode/2up) 
 by Aleksandrov, Kolmogorov and Lavren'iev
 168. [Solving Problems In Algebra And Trigonometry](https://archive.org/details/LitivinenkoMordkovichSolvingProblemsInAlgebraAndTrigonometryMir1988) by V. Litvinenko; A. Mordkovich
+169. [Linear Algebra Problem Book](https://archive.org/details/linearalgebrapro0000halm_w2r8/mode/2up) by Paul Halmos 
 
 
 
