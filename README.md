@@ -23,7 +23,7 @@
 1. [What is mathemarics](https://www.cimat.mx/~gil/docencia/2017/mate_elem/%5BCourant,Robbins%5DWhat_Is_Mathematics(2nd_edition_1996)v2.pdf) by Richard Courand and Herbert Robbins
 1. [Introduction to matrix analysis](https://eclass.uoa.gr/modules/document/file.php/MATH553/%5BRichard_Bellman%5D_Introduction_to_Matrix_Analysis%2C%28BookFi.org%29.pdf) by Richard Bellman
 1. [Combinatorial mathematics for recreation](https://archive.org/details/VilenkinCombinatorialMathematics) Vilenkin
-1. [Challenhing mathematical problems with elementary solutions, Volume I, Combinatorial Analysis and Probability Theory](https://ia802800.us.archive.org/13/items/ChallengingMathematicalProblemsWithElementarySolutionsVol1DoverYaglomYaglom/Challenging%20Mathematical%20Problems%20with%20Elementary%20Solutions%20Vol%201%20%28Dover%29%20-%20Yaglom%20%26%20Yaglom.pdf) Yaglom & Yaglom
+1. [Challenging mathematical problems with elementary solutions, Volume I, Combinatorial Analysis and Probability Theory](https://ia802800.us.archive.org/13/items/ChallengingMathematicalProblemsWithElementarySolutionsVol1DoverYaglomYaglom/Challenging%20Mathematical%20Problems%20with%20Elementary%20Solutions%20Vol%201%20%28Dover%29%20-%20Yaglom%20%26%20Yaglom.pdf) Yaglom & Yaglom
 1. [Collection ofproblems in probability theory](https://gwern.net/doc/statistics/probability/1973-meshalkin-collectionofproblemsinprobabilitytheory.pdf) by Meshalkin
 1. [Algebra](https://archive.org/details/algebra-gelfand-1) by Gelfand and Shen
 1. [Kolmogorov Complexity and Algorirhmic Randomness](https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf) by Shen, Uspensky, Vereschagin
@@ -144,7 +144,7 @@
 1. [Calculus](https://archive.org/details/CalculusSpivak/mode/2up) by Spivak
 1. [Introductory Calculus Textbook Collection](https://archive.org/details/introductory-calculus-book-collection/%28Calculus%29%20Michael%20Spivak%20-%20Combined%20Answer%20Book%20for%20Calculus%20Third%20and%20Fourth%20Editions/) by Michael Spivak
 1. [MATHEMATICS FOR MACHINE LEARNING](https://archive.org/details/mml-book_202310/page/22/mode/2up) by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
-1. [Fundamentals Of Linear Algebra And Analytical Geometry](Fundamentals Of Linear Algebra And Analytical Geometry) by Bugrov and Nikolsky
+1. [Fundamentals Of Linear Algebra And Analytical Geometry](https://archive.org/details/bugrov-y.-s.-nikolsky-s.-m-fundamentals-of-linear-algebra-and-analytical-geometry-mir-1982) by Bugrov and Nikolsky
 1. [An Algebra for Secondary Schools](https://archive.org/details/analgebraforsec00hedrgoog/page/n16/mode/2up) by Earle Raymond Hedrick (1908)
 1. [Linear Algebra with Elements of Analytic Geometry](https://archive.org/details/B-001-024-320) by A.S. Solodovnikov, G.A. Toropova
 1. [Pure mathematics, Part I](https://archive.org/details/frank-gerrish.-pure-mathematics-vol-1) by Frank Gerrish
@@ -184,13 +184,12 @@
 1. [The Essence of Mathematics Through Elementary Problems](https://www.openbookpublishers.com/books/10.11647/obp.0168) by Alexandre Borovik and Tony Gardiner;
 1. [Advanced Problems in Mathematics Preparing for University](https://www.openbookpublishers.com/books/10.11647/obp.0181) by Stephen Siklos
 1. [Concrete Mathematics](https://archive.org/details/concrete-mathematics) by Donald Knuth
-1. [Sequences, Combinations, Limits (Library of School Mathematics](https://archive.org/details/gelfand-et-al-sequences-combinations-limits-1969/mode/2up) by S.I. Gelfand; M.L. Gerver; N.N. Konstantinov; A. G. Kushnirenko; A.A. Kirillov
-1. [Problems In Differential Geometry And Topology](https://archive.org/details/ASMishchenkoYu.P.SolovyevATFomenkoProblemsInDifferentialGeometryAndTopologyMirPublishers1985/mode/2up)
-1A. S. Mishchenko, Yu. P. Solovyev, A. T. Fomenko
+1. [Sequences, Combinations, Limits (Library of School Mathematics)](https://archive.org/details/gelfand-et-al-sequences-combinations-limits-1969/mode/2up) by S.I. Gelfand; M.L. Gerver; N.N. Konstantinov; A. G. Kushnirenko; A.A. Kirillov
+1. [Problems In Differential Geometry And Topology](https://archive.org/details/ASMishchenkoYu.P.SolovyevATFomenkoProblemsInDifferentialGeometryAndTopologyMirPublishers1985/mode/2up) A. S. Mishchenko, Yu. P. Solovyev, A. T. Fomenko
 1. [250 problems in elementary number theory](https://archive.org/details/250problemsinele0000sier) by Sierpiński, Wacław, 1882-)
 1. [Theory Of Markov Processes](https://archive.org/details/dynkin-theory-of-markov-processes) by Dynkin
 1. [Markov processes theorems and problems](https://people.math.harvard.edu/~ctm/home/text/class/harvard/219/21/html/home/sources/dynkin.pdf) Dynkin and Yushkevich
-1. 166. [Problems In Descriptive Geometry](https://archive.org/details/arustamov-problems-in-descriptive-geometry-mir-1972/mode/2up) Arustamov
+1. [Problems In Descriptive Geometry](https://archive.org/details/arustamov-problems-in-descriptive-geometry-mir-1972/mode/2up) Arustamov
 1. [Mathematics Its Contents Methods And Meaning Vol 1 2 and 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201/mode/2up)
 1Aleksandrov, Kolmogorov and Lavren'iev
 1. [Solving Problems In Algebra And Trigonometry](https://archive.org/details/LitivinenkoMordkovichSolvingProblemsInAlgebraAndTrigonometryMir1988) by V. Litvinenko; A. Mordkovich
@@ -199,7 +198,7 @@
 1. [A Course Of Mathematical Analysis Vol 1](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-1-mir?utm_source=chatgpt.com) by S. M. Nikolsky (MIPT core mathematical analysis textbook) 🔥🔥🔥🔥🔥
 1. [[A Course Of Mathematical Analysis Vol 1]](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-2-mir) by by S. M. Nikolsky  (MIPT core mathematical analysis textbook) 🔥🔥🔥🔥🔥
 1. [Problems In Elementary Mathematics]([https://archive.org/details/ProblemsInMathematicsByV.Lidskii](https://archive.org/details/LidskyOvsyannikovTuliakovShabuninProblemsInElementaryMathematicsMirPublishers)) by V. Lidsky, L. Ovsyannikov, A. Tuliakov and M. Shabunin. A problem-solving companion that ranges across calculus, algebra, and geometry. Offers clear solutions and is perfect for deepening mathematical intuition.
-1. [A Course of Higher Mathematics – V.I. Smirnov (Vol. 1–5)][(https://archive.org/details/ACourseOfHigherMathematics], [V. I. Smirnov](https://archive.org/search?query=creator%3A%22V.+I.+Smirnov%22) **  One of the most rigorous and comprehensive advanced math textbooks. Topics include analysis, differential equations, and complex function theory. Excellent for math majors and graduate students.
+1. [A Course of Higher Mathematics – V.I. Smirnov (Vol. 1–5)](https://archive.org/details/ACourseOfHigherMathematics], [V. I. Smirnov](https://archive.org/search?query=creator%3A%22V.+I.+Smirnov%22) **  One of the most rigorous and comprehensive advanced math textbooks. Topics include analysis, differential equations, and complex function theory. Excellent for math majors and graduate students.
 1. [The Man Who Counted – Malba Tahan]([https://archive.org/details/the-man-who-counted-malba-tahan](https://archive.org/details/TheManWhoCounted-English-MalbaTahan)) **  A mathematical Arabian Nights: enjoy fables packed with number theory, logic, and elegant problem-solving.
 1. [The Universal History of Numbers – Georges Ifrah](https://archive.org/details/universalhistory0000ifra_y2b9) **  A global, epic journey through how human beings invented and evolved number systems—brilliant and sweeping.
 1. [Zero: The Biography of a Dangerous Idea – Charles Seife](https://archive.org/details/isbn_9780670884575)**  
