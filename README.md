@@ -213,6 +213,8 @@ by Aleksandrov, Kolmogorov and Lavren'iev
   A concise but rich account of how numerical thinking reshaped economics, science, and society.
 180. [Mathematical Analysis - Differentiation And Integration](https://archive.org/details/aramanovich-guter-lyusternik-raukhvarger-skanavi-yanpolskii-mathematical-analysi) by I. G. Aramanovich; R.S.Guter; L.A.Lyusternik; I.L. Raukhvarger; M. I. Skanavi; A. R.Yanpol'skii
 181. [Mathematical Analysis For School Students](https://mirtitles.org/2025/04/25/mathematical-analysis-for-school-students-by-lev-pontryagin/) by Lev Pontryagin
+182. [Elementary Mathematics ( Selected Topics And Problem Solving)](https://mirtitles.org/2025/02/24/elementary-mathematics-selected-topics-and-problem-solving-by-g-dorofeev-m-potapov-n-rozov/) by G. Dorofeev; M. Potapov; N. Rozov
+183. [Worked Problems In Applied Mathematics](https://mirtitles.org/2024/10/09/worked-problems-in-applied-mathematics-by-n-n-lebedev-i-p-skalskaya-y-s-uflyand/) by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand
 
 
 
