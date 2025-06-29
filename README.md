@@ -211,6 +211,7 @@ by Aleksandrov, Kolmogorov and Lavren'iev
   A quirky, passionate account of π through the ages—this cult classic blends math with snark and drama.
 179. [📘 The Triumph of Numbers – I. B. Cohen](https://archive.org/details/triumphofnumbers00cohe)**  
   A concise but rich account of how numerical thinking reshaped economics, science, and society.
+180. [Mathematical Analysis - Differentiation And Integration](https://archive.org/details/aramanovich-guter-lyusternik-raukhvarger-skanavi-yanpolskii-mathematical-analysi) by I. G. Aramanovich; R.S.Guter; L.A.Lyusternik; I.L. Raukhvarger; M. I. Skanavi; A. R.Yanpol'skii
 
 
 
