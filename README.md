@@ -215,7 +215,9 @@ by Aleksandrov, Kolmogorov and Lavren'iev
 181. [Mathematical Analysis For School Students](https://mirtitles.org/2025/04/25/mathematical-analysis-for-school-students-by-lev-pontryagin/) by Lev Pontryagin
 182. [Elementary Mathematics ( Selected Topics And Problem Solving)](https://mirtitles.org/2025/02/24/elementary-mathematics-selected-topics-and-problem-solving-by-g-dorofeev-m-potapov-n-rozov/) by G. Dorofeev; M. Potapov; N. Rozov
 183. [Worked Problems In Applied Mathematics](https://mirtitles.org/2024/10/09/worked-problems-in-applied-mathematics-by-n-n-lebedev-i-p-skalskaya-y-s-uflyand/) by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand
-184. [Calculus,Volume 1, Caltech core math textbook](https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-1-2nd-edition-proper.-1-john-wiley-sons-inc.-1991/%28Calculus%29%20Tom%20M.%20Apostol%20-%20Calculus%2C%20Volume%201%2C%202nd%20Edition%20%28PROPER%29.%201-John%20Wiley%20%26%20Sons%2C%20Inc.%20%281991%29/mode/2up) by Tom M. Apostol
+184. [Apostol's Calculus,Volume 1, Caltech core math textbook](https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-1-2nd-edition-proper.-1-john-wiley-sons-inc.-1991/%28Calculus%29%20Tom%20M.%20Apostol%20-%20Calculus%2C%20Volume%201%2C%202nd%20Edition%20%28PROPER%29.%201-John%20Wiley%20%26%20Sons%2C%20Inc.%20%281991%29/mode/2up) by Tom M. Apostol
+185. [Apostol's  Calculus,Volume 2, Caltech core math textbook](
+https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-edition-proper-2-1975-wiley-sons-libgen.lc/Apostol%20T.%20M.%20-%20Calculus%20vol%20II%20%281967%29/page/148/mode/2up) by Tom M. Apostol
 
 
 
