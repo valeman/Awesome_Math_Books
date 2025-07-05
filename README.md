@@ -35,7 +35,7 @@
 13. [Higher Mathematics ( Part 1) – for Engineering Students Part 1. Linear Algebra and Fundamentals of Mathematical Analysis](https://archive.org/details/efimov-demidovich-higher-mathematics-part-1-mir-1984)  by A. V. Efimov; B. P. Demidovich
 14. [Mathematical Analysis In Questions And Problems](https://archive.org/details/butuzov-ed.-mathematical-analysis-in-questions-and-problems-mir-1988/page/185/mode/2up) by B. F. Butuzov (Ed.); N. Ch. Krutitsknyn; G. N. Medvedev; A. A. Shishkin
 15. [Mathematical Handbook – Elementary Mathematics](https://archive.org/details/VygodskyElementaryMathematicalHandbook) by M. Vygodsky
-16. [Foundations of The Theory of Probability](https://archive.org/details/kolmogorov_202112) by A.N. Kolmogorov
+16. [Foundations of The Theory of Probability](https://archive.org/details/kolmogorov_202112) by A.N. Kolmogorov 🔥🔥🔥🔥🔥
 17. [Operations research](https://archive.org/details/WentzelOperationsResearchMir1983) [pdf](https://mega.nz/file/C5dGmATD#VFSnGH9FfSuvcPAJNa9PHHdrognlRz7c64dqErleDAk) by Elena Wentzel
 18. [Measure, Lebesgue Integrals and Hilbert Space – Kolmogorov and Fomin](https://archive.org/details/MeasureLebesgueIntegralsAndHilbertSpace) by Kolmorogov and Fomin [pdf](https://mega.nz/file/u9sByChZ#3Da0G_3yMUZ8pcBL_7hdQgNngKsBBSCAdMMgelcjJck)
 19. [The method of mathematical induction](https://archive.org/details/The.Method.Of.Mathematical.InductionSominskii1961) by Sominskii
@@ -49,7 +49,7 @@
 27. [Problems In Probability Theory, Mathematical Statistics And Theory Of Random Functions](https://archive.org/details/sveshnikov-problems-in-probability-theory-mathematical-statistics-and-theory-of-random-functions) by Sveshnikov
 28. [Probability And Information](https://archive.org/details/yaglom-yaglom-probability-and-information) by Yaglom and Yaglom
 29. [An Elementary Introduction to The Theory of Probability](https://archive.org/details/gnedenko-khinchin-an-elementary-introduction-to-the-theory-of-probability) by Gnedenko, Khinchin
-30. [Theory of Probability](https://archive.org/details/GnedenkoTheoryOfProbability) [pdf](https://mega.nz/file/35ty2IBK#XNdnlOJ9YrAdihpMSI2Q9nMFV56cjmW0o6MOqcfDkVc) by Gnedenko
+30. [Theory of Probability](https://archive.org/details/GnedenkoTheoryOfProbability) [pdf](https://mega.nz/file/35ty2IBK#XNdnlOJ9YrAdihpMSI2Q9nMFV56cjmW0o6MOqcfDkVc) by Gnedenko 🔥🔥🔥🔥🔥
 31. [Fundamentals of Linear Algebra and Analytical Geometry](https://archive.org/details/bugrov-y.-s.-nikolsky-s.-m-fundamentals-of-linear-algebra-and-analytical-geometry-mir-1982) [pdf](https://mega.nz/file/alVBDKJa#z6NQUR_y5c56yzDuXmA8vKXv3daAQy9Mog3-ToGCa4I) by Bugrov, Nikolsky
 32. [Higher Mathematics ( Part 1) – for Engineering Students Part 1. Linear Algebra and Fundamentals of Mathematical Analysis](https://archive.org/details/efimov-demidovich-higher-mathematics-part-1-mir-1984) by A. V. Efimov; B. P. Demidovich
 33. [Linear Algebra with Elements of Analytic Geometry](https://archive.org/details/linear-algebra-with-elements-of-analytic-geometry-mir-1990) by Solodovnikov, Toropova
@@ -73,7 +73,7 @@
 51. [Introduction To Mathematical Probability](https://archive.org/details/in.ernet.dli.2015.263184) by Uspensky
 52. [An introduction to linear algebra and tensors](https://archive.org/details/isbn_9780486635453) by Akivis and Goldberg
 53. [Calculus Of Variations](https://archive.org/details/gelfand-fomin-calculus-of-variations) by I.M. Gelfand; S.V. Fomin
-54. [Introductory Real Analysis](https://archive.org/details/kolmogorov-fomin-introductory-real-analysis) by Kolmogorov and Fomin
+54. [Introductory Real Analysis](https://archive.org/details/kolmogorov-fomin-introductory-real-analysis) by Kolmogorov and Fomin 🔥🔥🔥🔥🔥
 55. [Elementary Mathematics ( Selected Topics And Problem Solving)](https://archive.org/details/dorofeev-potapov-rozov-elementary-mathematics-selected-topics-and-problem-solving-mir-1982) by G. Dorofeev; M. Potapov; N. Rozov
 56. [A Brief Course Of Higher Mathematics](https://archive.org/details/v.-a.-kudryavtsev-b.-r-demidovich-a-brief-course-of-higher-mathematics-mir-1981) by V.A. Kudryavtsev and Demidovich
 57. [The Moscow Puzzles](https://archive.org/details/boris-a.-kordemsky-the-moscow-puzzles-1972) by Boris A. Kordemsky
