@@ -17,6 +17,7 @@
 * [Physics](#physics)
 * [Econometrics](#econometrics)
 * [Optimization](#optimization)
+* [Information_theory](#information_theory)
 
 ## Math
 
@@ -263,6 +264,9 @@ by L. D. Landau, A. I. Kitaigorodsky
 
 ## Optimization
 1. [Algorithms for optimization, MIT book](https://algorithmsbook.com/optimization/files/optimization.pdf) by Mykel Kochenderfer, Tim Wheeler
+
+## Information_theory
+1. [A first course in information theory](https://iest2.ie.cuhk.edu.hk/~whyeung/tempo/main.pdf) by Raymond Yeung, Chinese Univeristy of Hong Kong 
 
 
    
