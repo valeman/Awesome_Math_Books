@@ -258,6 +258,7 @@ by L. D. Landau, A. I. Kitaigorodsky
 28. [Generalized Functions in Mathematical Physics – V. S. Vladimirov (1979)](https://archive.org/details/vladimirov-genaralized-equations-in-mathematical-physics)
 29. [Fun with Maths and Physics – Yakov Perelman](https://archive.org/details/funwithmathsandphysicsgnv64)
 30. [Lectures In Analytical Mechanics by F. Gantmacher](https://archive.org/details/lectures-in-analytical-mechanics-f.-gantmacher) 🔥🔥🔥🔥🔥
+31. [Collected Problems in Physics](https://archive.org/details/s.-kozel-e.-rashda-s.-slavatinskii-collected-problems-in-physics-mir-1986/mode/2up)  S. Kozel; E. Rashda; S. Slavatinskii 🔥🔥🔥🔥🔥
 
 ## Econometrics
 1. [Basic Econometrics](http://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf) by Riccardo (Jack) Lucchetti (2024)
