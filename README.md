@@ -221,7 +221,10 @@ by Aleksandrov, Kolmogorov and Lavren'iev
 https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-edition-proper-2-1975-wiley-sons-libgen.lc/Apostol%20T.%20M.%20-%20Calculus%20vol%20II%20%281967%29/page/148/mode/2up) by Tom M. Apostol
 186. [General Topology](https://archive.org/details/generaltopology0000kell) by John Kelley
 187. [A history of probability and statistics and their applications before 1750](https://archive.org/details/historyofprobabi0000hald) by Andres Hald
-188. [The rise of statistical thinking, 1820-1900](https://archive.org/details/riseofstatistica00theo) 
+188. [The rise of statistical thinking, 1820-1900](https://archive.org/details/riseofstatistica00theo)
+189. [Problems In Plane Geometry](https://archive.org/details/SharyginProblemsInPlaneGeometryScienceForEveryone) by Sharygin
+190. [Probability Theory And Mathematical Statistics](https://archive.org/details/g.-klimov-probability-theory-and-mathematical-statistics-mir-1986) by Klimov
+191. [Love And Mathematics Sofya Kovalevskaya](https://archive.org/details/kochina-love-and-mathematics-sofya-kovalevskaya-1985) by Pelageya Kochina
 
 
 
@@ -261,6 +264,7 @@ by L. D. Landau, A. I. Kitaigorodsky
 29. [Fun with Maths and Physics – Yakov Perelman](https://archive.org/details/funwithmathsandphysicsgnv64)
 30. [Lectures In Analytical Mechanics by F. Gantmacher](https://archive.org/details/lectures-in-analytical-mechanics-f.-gantmacher) 🔥🔥🔥🔥🔥
 31. [Collected Problems in Physics](https://archive.org/details/s.-kozel-e.-rashda-s.-slavatinskii-collected-problems-in-physics-mir-1986/mode/2up)  S. Kozel; E. Rashda; S. Slavatinskii 🔥🔥🔥🔥🔥
+32. [Physics In Your Kitchen Lab](https://archive.org/details/PhysicsInYourKitchenLabKikoin) by Kikoin
 
 ## Econometrics
 1. [Basic Econometrics](http://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf) by Riccardo (Jack) Lucchetti (2024)
