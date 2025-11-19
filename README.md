@@ -18,6 +18,7 @@
 * [Econometrics](#econometrics)
 * [Optimization](#optimization)
 * [Information_theory](#information_theory)
+* [Signal_processing](#signal_processing)
 
 ## Math
 
@@ -275,10 +276,14 @@ by L. D. Landau, A. I. Kitaigorodsky
 ## Information_theory
 1. [A first course in information theory](https://iest2.ie.cuhk.edu.hk/~whyeung/tempo/main.pdf) by Raymond Yeung, Chinese Univeristy of Hong Kong 
 
-
+## Signal_processing
+1. [The Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf)
    
 
  
  
 
 
+
+
+#
