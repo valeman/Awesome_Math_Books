@@ -272,6 +272,7 @@ by L. D. Landau, A. I. Kitaigorodsky
 
 ## Optimization
 1. [Algorithms for optimization, MIT book](https://algorithmsbook.com/optimization/files/optimization.pdf) by Mykel Kochenderfer, Tim Wheeler
+2. [Lectures on Modern Convex Optimizaion](https://www2.isye.gatech.edu/~nemirovs/LMCOBookSIAM.pdf) by Arkadii Nemirovski
 
 ## Information_theory
 1. [A first course in information theory](https://iest2.ie.cuhk.edu.hk/~whyeung/tempo/main.pdf) by Raymond Yeung, Chinese Univeristy of Hong Kong 
