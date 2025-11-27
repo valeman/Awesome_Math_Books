@@ -19,6 +19,7 @@
 * [Optimization](#optimization)
 * [Information_theory](#information_theory)
 * [Signal_processing](#signal_processing)
+* [History](#history)
 
 ## Math
 
@@ -280,12 +281,8 @@ by L. D. Landau, A. I. Kitaigorodsky
 
 ## Signal_processing
 1. [The Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf)
-   
-
  
- 
-
-
-
-
-#
+## History
+1. [Sonia Kovalevsky : biography and autobiography](https://archive.org/details/soniakovalevskyb00kova/page/n9/mode/2up)
+2. [Sonya Kovalevsky - her recollections of childhood](https://ia800206.us.archive.org/33/items/sonyakovalevsky00kovaiala/sonyakovalevsky00kovaiala.pdf)
+3. 
