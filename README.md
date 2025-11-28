@@ -268,6 +268,7 @@ by L. D. Landau, A. I. Kitaigorodsky
 31. [Collected Problems in Physics](https://archive.org/details/s.-kozel-e.-rashda-s.-slavatinskii-collected-problems-in-physics-mir-1986/mode/2up)  S. Kozel; E. Rashda; S. Slavatinskii 🔥🔥🔥🔥🔥
 32. [Physics In Your Kitchen Lab](https://archive.org/details/PhysicsInYourKitchenLabKikoin) by Kikoin
 33. [Collected papers of Landau](https://ia802300.us.archive.org/35/items/d.-ter-haar-collected-papers-of-l.-d.-landau/D.%20ter%20Haar%20-%20Collected%20Papers%20of%20L.%20D.%20Landau.pdf) 🔥🔥🔥🔥🔥
+34. [Science for Everyone – Aptitude Test Problems in Physics](https://mirtitles.org/2011/12/05/science-for-everyone-aptitude-test-problems-in-physics/) edited by Krotov
 
 ## Econometrics
 1. [Basic Econometrics](http://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf) by Riccardo (Jack) Lucchetti (2024)
