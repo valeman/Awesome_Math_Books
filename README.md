@@ -14,6 +14,7 @@
 ## [Table of Contents]()
 
 * [Math](#math)
+* [Machine_learning](#machine_learning)
 * [Physics](#physics)
 * [Econometrics](#econometrics)
 * [Optimization](#optimization)
@@ -228,8 +229,15 @@ https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-editio
 190. [Probability Theory And Mathematical Statistics](https://archive.org/details/g.-klimov-probability-theory-and-mathematical-statistics-mir-1986) by Klimov
 191. [Love And Mathematics Sofya Kovalevskaya](https://archive.org/details/kochina-love-and-mathematics-sofya-kovalevskaya-1985) by Pelageya Kochina
 
-
-
+## Machine_learning
+1. [Machine Learning](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf) by Tom Mitchell, Carnegie Mellon.
+2. [Pattern recognition and machine learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher Bishop (Microsoft Research)
+3. [An introduction to statistical learning](https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view) by James, Witten, Hastie, Tibshirani, and Taylor
+4. [Probabilistic Machine Learning: An Introduction" by Kevin Patrick Murphy](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
+5. [Probabilistic Machine Learning: Advanced Topics" by Kevin Patrick Murphy](https://github.com/probml/pml2-book/releases/latest/download/book2.pdf)
+6. [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) by Shai Shalev-Shwartz and Shai Ben-David
+7. [Foundations of Machine Learning](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf) by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
+8. [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf) by David J. C. MacKay
      
 ## Physics
 1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
