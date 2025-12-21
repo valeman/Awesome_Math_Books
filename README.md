@@ -228,7 +228,7 @@ https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-editio
 189. [Problems In Plane Geometry](https://archive.org/details/SharyginProblemsInPlaneGeometryScienceForEveryone) by Sharygin
 190. [Probability Theory And Mathematical Statistics](https://archive.org/details/g.-klimov-probability-theory-and-mathematical-statistics-mir-1986) by Klimov
 191. [Love And Mathematics Sofya Kovalevskaya](https://archive.org/details/kochina-love-and-mathematics-sofya-kovalevskaya-1985) by Pelageya Kochina
-192. [Probability : a survey of the mathematical theory](https://archive.org/details/probabilitysurve0000lamp_d6r3) 
+192. [Probability : a survey of the mathematical theory](https://archive.org/details/probabilitysurve0000lamp_d6r3) by John Lamperti
 
 ## Machine_learning
 1. [Machine Learning](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf) by Tom Mitchell, Carnegie Mellon.
