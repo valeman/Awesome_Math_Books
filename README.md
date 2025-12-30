@@ -21,6 +21,7 @@
 * [Information_theory](#information_theory)
 * [Signal_processing](#signal_processing)
 * [History](#history)
+* [Probabiltity](#probability)
 
 ## Math
 
@@ -286,6 +287,7 @@ by L. D. Landau, A. I. Kitaigorodsky
 1. [Probability : a survey of the mathematical theory](https://archive.org/details/probabilitysurve0000lamp_d6r3) by John Lamperti 🔥🔥🔥🔥🔥
 2. [Probabilitic method](https://math.bme.hu/~gabor/oktatas/SztoM/AlonSpencer.ProbMethod3ed.pdf) by Alon and Spencer 🔥🔥🔥🔥🔥
 3. [An Introduction To Probability Theory and Its Applications volume 1](https://archive.org/details/dli.ernet.5666/page/215/mode/2up) by by Feller William
+4. [Lady Luck : the theory of probability](https://archive.org/details/ladylucktheoryof0000weav_n9d6)
 
 
 ## Econometrics
