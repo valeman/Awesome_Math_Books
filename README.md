@@ -288,7 +288,7 @@ by L. D. Landau, A. I. Kitaigorodsky
 2. [Probabilitic method](https://math.bme.hu/~gabor/oktatas/SztoM/AlonSpencer.ProbMethod3ed.pdf) by Alon and Spencer 🔥🔥🔥🔥🔥
 3. [An Introduction To Probability Theory and Its Applications volume 1](https://archive.org/details/dli.ernet.5666/page/215/mode/2up) by by Feller William
 4. [Lady Luck : the theory of probability](https://archive.org/details/ladylucktheoryof0000weav_n9d6)
-
+5. [Probability and Statistics](https://archive.org/details/probabilitystati00most_0/page/n13/mode/2up)
 
 ## Econometrics
 1. [Basic Econometrics](http://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf) by Riccardo (Jack) Lucchetti (2024)
