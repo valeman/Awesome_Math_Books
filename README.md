@@ -230,7 +230,8 @@ https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-editio
 190. [Probability Theory And Mathematical Statistics](https://archive.org/details/g.-klimov-probability-theory-and-mathematical-statistics-mir-1986) by Klimov
 191. [Love And Mathematics Sofya Kovalevskaya](https://archive.org/details/kochina-love-and-mathematics-sofya-kovalevskaya-1985) by Pelageya Kochina
 192. [Probability : a survey of the mathematical theory](https://archive.org/details/probabilitysurve0000lamp_d6r3) by John Lamperti
-193. [Probabilitic method](https://math.bme.hu/~gabor/oktatas/SztoM/AlonSpencer.ProbMethod3ed.pdf) by Alon and Spencer 
+193. [Probabilitic method](https://math.bme.hu/~gabor/oktatas/SztoM/AlonSpencer.ProbMethod3ed.pdf) by Alon and Spencer
+194. [An Introduction to The Theory of Numbers](https://ia801401.us.archive.org/11/items/in.ernet.dli.2015.147898/2015.147898.An-Introduction-To-The-Theory-Of-Numbers-Fourth-Edition.pdf) by Hardy and Wright (1938)
 
 ## Machine_learning
 1. [Machine Learning](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf) by Tom Mitchell, Carnegie Mellon.
