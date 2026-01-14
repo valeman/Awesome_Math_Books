@@ -1,7 +1,8 @@
 # Awesome_Math_Books
-
 ## Star History
 
+## COMENTÁRIOS BEATRIZ ##
+## ESTUDO GIT HUB ##
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/valeman/Awesome_Math_Books?style=social)
 
