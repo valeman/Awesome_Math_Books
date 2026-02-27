@@ -10,9 +10,11 @@
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Support This Project
-1. Arithmetic by Kiselev → gumroad.com/l/arithmetic
-2. Markov Calculus of Probabilities → gumroad.com/l/markov1900
-3. Classical Mathematics Bundle → gumroad.com/l/math_bundle
+
+If you find this list useful, you can support my work by checking out my English translations of legendary Russian mathematics textbooks:
+
+1. [Arithmetic by A.P. Kiselev](https://valeman.gumroad.com/l/arithmetic) — First modern English translation of one of the bestselling math textbooks ever written (125+ years in print, over 100 million copies sold across Russia, China, and the world) 🔥🔥🔥🔥🔥
+2. [The Calculus of Probabilities (1900) by A.A. Markov](https://valeman.gumroad.com/l/markov1900) — First-ever English translation of the foundational probability text by the father of Markov Chains 🔥🔥🔥🔥🔥
 
 ## [Table of Contents]()
 
