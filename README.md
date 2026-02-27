@@ -241,6 +241,10 @@ https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-editio
 195. [Introduction to number theory](https://web.math.ku.dk/~risager/introtal/main.pdf) by Morten Risager
 196. [Course of pure mathematics](https://archive.org/details/courseofpuremath00hardrich/page/n7/mode/2up) by Hardy (1921)
 
+197. [Arithmetic](https://valeman.gumroad.com/l/arithmetic) by A.P. Kiselev (first modern English translation — one of the bestselling math textbooks ever written, 125+ years in print) 🔥🔥🔥🔥🔥
+
+<a href="https://valeman.gumroad.com/l/arithmetic" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Arithmetic_by_Kiselev-orange?style=for-the-badge" alt="Get Arithmetic by Kiselev"></a>
+
 ## Machine_learning
 1. [Machine Learning](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf) by Tom Mitchell, Carnegie Mellon.
 2. [Pattern recognition and machine learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher Bishop (Microsoft Research)
