@@ -11,10 +11,11 @@
 
 ## Support This Project
 
-If you find this list useful, you can support my work by checking out my English translations of legendary Russian mathematics textbooks:
+If you find this list useful, you can support my work by checking out my English translations of legendary Russian mathematics textbooks. More about my work at [valeriy.ai](https://valeriy.ai).
 
 1. [Arithmetic by A.P. Kiselev](https://valeman.gumroad.com/l/arithmetic) — First modern English translation of one of the bestselling math textbooks ever written (125+ years in print, over 100 million copies sold across Russia, China, and the world) 🔥🔥🔥🔥🔥
 2. [The Calculus of Probabilities (1900) by A.A. Markov](https://valeman.gumroad.com/l/markov1900) — First-ever English translation of the foundational probability text by the father of Markov Chains 🔥🔥🔥🔥🔥
+3. [Classical Mathematics Bundle (Kiselev + Markov)](https://valeman.gumroad.com/l/math_bundle) — Both translations at a discounted bundle price 🔥🔥🔥🔥🔥
 
 ## [Table of Contents]()
 
