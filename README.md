@@ -303,6 +303,10 @@ by L. D. Landau, A. I. Kitaigorodsky
 4. [Lady Luck : the theory of probability](https://archive.org/details/ladylucktheoryof0000weav_n9d6)
 5. [Probability and Statistics](https://archive.org/details/probabilitystati00most_0/page/n13/mode/2up)
 
+6. [The Calculus of Probabilities (1900)](https://valeman.gumroad.com/l/markov1900) by A.A. Markov (first-ever English translation of the foundational text by the father of Markov Chains) 🔥🔥🔥🔥🔥
+
+<a href="https://valeman.gumroad.com/l/markov1900" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Markov's_Calculus_of_Probabilities-orange?style=for-the-badge" alt="Get Markov's Calculus of Probabilities"></a>
+
 ## Econometrics
 1. [Basic Econometrics](http://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf) by Riccardo (Jack) Lucchetti (2024)
 
