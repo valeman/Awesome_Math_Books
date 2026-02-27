@@ -9,7 +9,10 @@
 
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-
+## Support This Project
+1. Arithmetic by Kiselev → gumroad.com/l/arithmetic
+2. Markov Calculus of Probabilities → gumroad.com/l/markov1900
+3. Classical Mathematics Bundle → gumroad.com/l/math_bundle
 
 ## [Table of Contents]()
 
