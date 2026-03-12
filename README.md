@@ -1,7 +1,122 @@
-# Awesome_Math_Books
+# Awesome Math Books
+
+⭐ If you find this repository useful, please **consider starring it**.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/valeman/Awesome_Math_Books?style=social)
+
+A curated collection of some of the **best mathematics books ever written** — spanning classical foundations, probability, analysis, geometry, and problem-solving texts used by mathematicians, scientists, engineers, and AI researchers.
+
+The goal of this repository is simple:
+
+• highlight **timeless mathematical books**
+• avoid modern textbook bloat
+• emphasize **logical thinking and problem solving**
+
+Many of the greatest scientists and mathematicians were trained using **books very different from modern textbooks**.
+
+This repository highlights those works.
+
+---
+
+# Featured Book
+
+## Kiselev’s Arithmetic — A.P. Kiselev
+
+The legendary mathematics textbook that trained generations of scientists in Russia, the USSR, and China.
+
+For more than **125 years**, Kiselev’s books were among the most widely used mathematics textbooks in the world.
+
+Over **100 million copies** were printed.
+
+The book is famous for its:
+
+• crystal clear logical explanations
+• rigorous yet intuitive approach
+• focus on true mathematical understanding
+
+For the **first time ever**, the book is now available in a **modern English translation**.
+
+Formats available:
+
+Hardcover collector’s edition
+https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation/dp/1919465820/
+
+Paperback edition
+https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation
+
+Ebook
+https://valeman.gumroad.com/l/arithmetic
+
+---
+
+# Probability Classic
+
+## The Calculus of Probabilities (1900) — A.A. Markov
+
+The foundational probability text written by the **father of Markov chains**.
+
+This book laid the groundwork for:
+
+• stochastic processes
+• Markov chains
+• probabilistic modeling
+• modern machine learning theory
+
+This is the **first ever English translation** of Markov's original work.
+
+Available here:
+
+https://valeman.gumroad.com/l/markov1900
+
+---
+
+# Classical Mathematics Bundle
+
+Both translations together at a discounted bundle price.
+
+https://valeman.gumroad.com/l/math_bundle
+
+---
+
+# Why Soviet Mathematics Education Was Different
+
+During the 20th century the USSR produced an extraordinary number of mathematicians, physicists, and engineers.
+
+Many of them were trained using textbooks designed with a radically different philosophy from modern textbooks:
+
+• focus on **deep conceptual understanding**
+• minimal distractions
+• emphasis on **logical reasoning**
+• strong problem-solving culture
+
+Books like **Kiselev’s Arithmetic** played a central role in this tradition.
+
+---
+
+# Support This Project
+
+If you find this repository useful, you can support the project by checking out my translations of classical mathematics texts.
+
+More about my work:
+
+https://valeriy.ai
+
+---
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=valeman/Awesome_Math_Books\&type=Date)](https://star-history.com/#valeman/Awesome_Math_Books&Date)
+
+---
+
+# Buy Me a Coffee
+
+<a href="https://www.buymeacoffee.com/valeman" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
 
 ## Star History
-
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/valeman/Awesome_Math_Books?style=social)
 
@@ -9,13 +124,54 @@
 
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-## Support This Project
+---
 
-If you find this list useful, you can support my work by checking out my English translations of legendary Russian mathematics textbooks. More about my work at [valeriy.ai](https://valeriy.ai).
+# Support This Project
 
-1. [Arithmetic by A.P. Kiselev](https://valeman.gumroad.com/l/arithmetic) — First modern English translation of one of the bestselling math textbooks ever written (125+ years in print, over 100 million copies sold across Russia, China, and the world) 🔥🔥🔥🔥🔥 
-2. [The Calculus of Probabilities (1900) by A.A. Markov](https://valeman.gumroad.com/l/markov1900) — First-ever English translation of the foundational probability text by the father of Markov Chains 🔥🔥🔥🔥🔥
-3. [Classical Mathematics Bundle (Kiselev + Markov)](https://valeman.gumroad.com/l/math_bundle) — Both translations at a discounted bundle price 🔥🔥🔥🔥🔥
+If you find this list useful, you can support my work by checking out my **English translations of legendary Russian mathematics textbooks**.
+
+More about my work:  
+https://valeriy.ai
+
+---
+
+## My Books
+
+### 1. Arithmetic — A.P. Kiselev
+
+The **first modern English translation** of one of the most famous mathematics textbooks ever written.
+
+For more than **125 years**, Kiselev’s books trained generations of mathematicians, engineers, and scientists across Russia, the USSR, and China.
+
+Over **100 million copies** have been printed.
+
+Formats available:
+
+• Ebook (Gumroad):  
+https://valeman.gumroad.com/l/arithmetic  
+
+• Hardcover collector's edition (Amazon):  
+https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation/dp/1919465820/
+
+• Paperback (Amazon):  
+https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation
+
+---
+
+### 2. The Calculus of Probabilities (1900) — A.A. Markov
+
+The **first-ever English translation** of the foundational probability text by the **father of Markov chains**.
+
+Ebook:  
+https://valeman.gumroad.com/l/markov1900
+
+---
+
+### 3. Classical Mathematics Bundle
+
+Both translations together at a discounted bundle price.
+
+https://valeman.gumroad.com/l/math_bundle
 
 ## [Table of Contents]()
 
