@@ -44,7 +44,7 @@ Hardcover collector’s edition
 https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation/dp/1919465820/
 
 Paperback edition
-https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation
+https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation/dp/1919465812/
 
 Ebook
 https://valeman.gumroad.com/l/arithmetic
