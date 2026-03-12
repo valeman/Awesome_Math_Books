@@ -22,6 +22,8 @@ This repository highlights those works.
 
 ## Kiselev’s Arithmetic — A.P. Kiselev
 
+![Kiselev Arithmetic](images/kiselev_cover.jpg)
+
 The legendary mathematics textbook that trained generations of scientists in Russia, the USSR, and China.
 
 For more than **125 years**, Kiselev’s books were among the most widely used mathematics textbooks in the world.
