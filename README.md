@@ -118,25 +118,6 @@ https://valeriy.ai
 </a>
 
 
-## Star History
-
-![GitHub Repo stars](https://img.shields.io/github/stars/valeman/Awesome_Math_Books?style=social)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=valeman/Awesome_Math_Books&type=Date)](https://star-history.com/#valeman/Awesome_Math_Books&Date)
-
-<a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
----
-
-# Support This Project
-
-If you find this list useful, you can support my work by checking out my **English translations of legendary Russian mathematics textbooks**.
-
-More about my work:  
-https://valeriy.ai
-
----
-
 ## My Books
 
 ### 1. Arithmetic — A.P. Kiselev
