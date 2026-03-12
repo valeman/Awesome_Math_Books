@@ -117,45 +117,6 @@ https://valeriy.ai
 <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
 </a>
 
-
-## My Books
-
-### 1. Arithmetic — A.P. Kiselev
-
-The **first modern English translation** of one of the most famous mathematics textbooks ever written.
-
-For more than **125 years**, Kiselev’s books trained generations of mathematicians, engineers, and scientists across Russia, the USSR, and China.
-
-Over **100 million copies** have been printed.
-
-Formats available:
-
-• Ebook (Gumroad):  
-https://valeman.gumroad.com/l/arithmetic  
-
-• Hardcover collector's edition (Amazon):  
-https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation/dp/1919465820/
-
-• Paperback (Amazon):  
-https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation
-
----
-
-### 2. The Calculus of Probabilities (1900) — A.A. Markov
-
-The **first-ever English translation** of the foundational probability text by the **father of Markov chains**.
-
-Ebook:  
-https://valeman.gumroad.com/l/markov1900
-
----
-
-### 3. Classical Mathematics Bundle
-
-Both translations together at a discounted bundle price.
-
-https://valeman.gumroad.com/l/math_bundle
-
 ## [Table of Contents]()
 
 * [Math](#math)
