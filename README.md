@@ -22,7 +22,7 @@ This repository highlights those works.
 
 ## Kiselev’s Arithmetic — A.P. Kiselev
 
-![Kiselev Arithmetic](kiselev_cover.jpg)
+![Kiselev Arithmetic](kiselev_cover.png)
 
 The legendary mathematics textbook that trained generations of scientists in Russia, the USSR, and China.
 
