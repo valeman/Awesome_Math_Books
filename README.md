@@ -352,12 +352,9 @@ https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-editio
 197. [Mishchenko, Fomenko A Course Of Differential Geometry And Topology](https://archive.org/details/MishchenkoFomenkoACourseOfDifferentialGeometryAndTopology/mode/2up)
 198. [Number systems](https://archive.org/details/fomin-number-systems/) by S.V. Fomin 
 
-199. [Arithmetic](https://valeman.gumroad.com/l/arithmetic) by A.P. Kiselev (first modern English translation — one of the bestselling math textbooks ever written, 125+ years in print) 🔥🔥🔥🔥🔥
+199. [Arithmetic](https://valeman.gumroad.com/l/arithmetic) by A.P. Kiselev (first modern English translation — one of the bestselling math textbooks ever written, 125+ years in print) 🔥🔥🔥🔥🔥 <a href="https://valeman.gumroad.com/l/arithmetic" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Arithmetic_by_Kiselev-orange?style=for-the-badge" alt="Get Arithmetic by Kiselev"></a>
 
-<a href="https://valeman.gumroad.com/l/arithmetic" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Arithmetic_by_Kiselev-orange?style=for-the-badge" alt="Get Arithmetic by Kiselev"></a>
-
-200. [Algebra, Part I](https://valeman.gumroad.com/l/kiselev_algebra_part_I) by A.P. Kiselev (first modern English translation — the official Soviet algebra textbook for decades, 126 sections, 6 chapters) 🔥🔥🔥🔥🔥
-<a href="https://valeman.gumroad.com/l/kiselev_algebra_part_I" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Algebra_by_Kiselev-orange?style=for-the-badge" alt="Get Algebra by Kiselev"></a>
+200. [Algebra, Part I](https://valeman.gumroad.com/l/kiselev_algebra_part_I) by A.P. Kiselev (first modern English translation — the official Soviet algebra textbook for decades, 126 sections, 6 chapters) 🔥🔥🔥🔥🔥 <a href="https://valeman.gumroad.com/l/kiselev_algebra_part_I" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Algebra_by_Kiselev-orange?style=for-the-badge" alt="Get Algebra by Kiselev"></a>
 
 ## Machine_learning
 1. [Machine Learning](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf) by Tom Mitchell, Carnegie Mellon.
