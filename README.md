@@ -50,7 +50,16 @@ Ebook
 https://valeman.gumroad.com/l/arithmetic
 
 ---
+## Kiselev's Algebra, Part I — A.P. Kiselev
 
+The legendary Russian algebra textbook (1888) — official Soviet standard for decades, used by millions of students — now in English for the first time.
+
+126 sections across 6 chapters. From preliminary concepts through quadratic equations. Every rule derived, not dictated.
+
+Ebook (early access)
+https://valeman.gumroad.com/l/kiselev_algebra_part_I
+
+---
 # Probability Classic
 
 ## The Calculus of Probabilities (1900) — A.A. Markov
