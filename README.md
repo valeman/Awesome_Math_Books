@@ -52,7 +52,7 @@ https://valeman.gumroad.com/l/arithmetic
 ---
 ## Kiselev's Algebra, Parts I and II — A.P. Kiselev
 
-The legendary Russian algebra textbook (first published 1888) — the official algebra textbook in Russian schools for decades, used by millions of students. Now available in English for the first time as a faithful translation from the original Russian edition.
+The legendary Russian algebra textbook (first published 1888) — the official algebra textbook in Russian and USSR schools for over 70 years, used by tens millions of students. Now available in English for the first time as a faithful translation from the original Russian edition.
 
 **Part I** (Grades 6–8, ages 12–15): 6 chapters, 126 sections, 239 exercises. Covers relative numbers and operations, monomials, polynomials and algebraic fractions, ratios and proportions, equations of the first degree (one and two unknowns), systems of equations, powers and roots, and quadratic equations.
 
