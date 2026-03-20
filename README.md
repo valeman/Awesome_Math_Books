@@ -50,14 +50,22 @@ Ebook
 https://valeman.gumroad.com/l/arithmetic
 
 ---
-## Kiselev's Algebra, Part I — A.P. Kiselev
+Here's the GitHub repo text, ready to paste:
 
-The legendary Russian algebra textbook (1888) — official Soviet standard for decades, used by millions of students — now in English for the first time.
+---
 
-126 sections across 6 chapters. From preliminary concepts through quadratic equations. Every rule derived, not dictated.
+## Kiselev's Algebra, Parts I and II — A.P. Kiselev
 
-Ebook (early access)
-https://valeman.gumroad.com/l/kiselev_algebra_part_I
+The legendary Russian algebra textbook (first published 1888) — the official algebra textbook in Russian schools for decades, used by millions of students. Now available in English for the first time as a faithful translation from the original Russian edition.
+
+**Part I** (Grades 6–8, ages 12–15): 6 chapters, 126 sections, 239 exercises. Covers relative numbers and operations, monomials, polynomials and algebraic fractions, ratios and proportions, equations of the first degree (one and two unknowns), systems of equations, powers and roots, and quadratic equations.
+
+**Part II** (Grades 8–10, ages 14–17): 12 chapters + Supplements, 187 sections. Covers functions and their graphical representation, quadratic equations and systems, inequalities, approximate calculations, powers and roots with arbitrary exponents, logarithms, progressions, complex numbers, algebraic equations, number theory, binomial theorem, and continued fractions.
+
+Every rule is derived, not dictated. Every method is built from a real problem. The structure: **define → prove → apply → practise.**
+
+- Part I (available now): https://valeman.gumroad.com/l/kiselev_algebra_part_I
+- Part II (pre-order): https://valeman.gumroad.com/l/kiselev_algebra_part_II
 
 ---
 # Probability Classic
