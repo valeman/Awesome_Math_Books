@@ -50,10 +50,6 @@ Ebook
 https://valeman.gumroad.com/l/arithmetic
 
 ---
-Here's the GitHub repo text, ready to paste:
-
----
-
 ## Kiselev's Algebra, Parts I and II — A.P. Kiselev
 
 The legendary Russian algebra textbook (first published 1888) — the official algebra textbook in Russian schools for decades, used by millions of students. Now available in English for the first time as a faithful translation from the original Russian edition.
