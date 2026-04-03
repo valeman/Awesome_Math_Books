@@ -1,6 +1,6 @@
 # Awesome Math Books
 
-⭐ If you find this repository useful, please **consider starring it**.
+⭐ If you find this repository useful, please **consider staring it**.
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/valeman/Awesome_Math_Books?style=social)
 
