@@ -409,7 +409,7 @@ by L. D. Landau, A. I. Kitaigorodsky
 33. [Collected papers of Landau](https://ia802300.us.archive.org/35/items/d.-ter-haar-collected-papers-of-l.-d.-landau/D.%20ter%20Haar%20-%20Collected%20Papers%20of%20L.%20D.%20Landau.pdf) 🔥🔥🔥🔥🔥
 34. [Science for Everyone – Aptitude Test Problems in Physics](https://mirtitles.org/2011/12/05/science-for-everyone-aptitude-test-problems-in-physics/) edited by Krotov
 35. [Problems In Elementary Physics](https://archive.org/details/BukhovtsevEtAlProblemsInElementaryPhysics/page/n201/mode/2up) by B. Bukhovtsev, V. Krivchenkov, G. Myakishev, and V. Shalnov
-36. 
+36. [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu) 🔥🔥🔥🔥🔥
 
 ## Probability 
 1. [Probability : a survey of the mathematical theory](https://archive.org/details/probabilitysurve0000lamp_d6r3) by John Lamperti 🔥🔥🔥🔥🔥
