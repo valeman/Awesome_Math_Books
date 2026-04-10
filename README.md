@@ -18,6 +18,7 @@ This repository highlights those works.
 
 ---
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=valeman_Awesome_Math_Books) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 # Featured Book
 
 ## Kiselev’s Arithmetic — A.P. Kiselev
