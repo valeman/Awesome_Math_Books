@@ -47,7 +47,10 @@ Paperback edition
 https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation/dp/1919465812/
 
 Ebook
+(English)
 https://valeman.gumroad.com/l/arithmetic
+(Spanish)
+https://valeman.gumroad.com/l/aritmetica
 
 ---
 ## Kiselev's Algebra, Parts I and II — A.P. Kiselev
