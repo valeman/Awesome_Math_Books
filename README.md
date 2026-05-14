@@ -110,7 +110,7 @@ Books like **Kiselev’s Arithmetic** played a central role in this tradition.
 
 # Support This Project
 
-If you find this repository useful, you can support the project by checking out my translations of classical mathematics texts.
+If you find this repository useful, you can support the project by checking out my translations of classical mathematics texts russianmathbooks.com
 
 More about my work:
 
