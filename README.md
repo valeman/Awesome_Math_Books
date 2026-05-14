@@ -44,16 +44,11 @@ The book is famous for its:
 
 For the **first time ever**, the book is now available in a **modern English translation**.
 
-Formats available:
+**All formats and full details:** [russianmathbooks.com/books/kiselev-arithmetic/](https://russianmathbooks.com/books/kiselev-arithmetic/)
 
-Hardcover collector’s edition
-https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation/dp/1919465820/
-
-Paperback edition
-https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation/dp/1919465812/
-
-Ebook
-https://valeman.gumroad.com/l/arithmetic
+- Hardcover collector's edition: [Amazon](https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation/dp/1919465820/)
+- Paperback: [Amazon](https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation/dp/1919465812/)
+- Ebook (PDF, Gumroad): [valeman.gumroad.com/l/arithmetic](https://valeman.gumroad.com/l/arithmetic)
 
 ---
 ## Kiselev's Algebra, Parts I and II — A.P. Kiselev
