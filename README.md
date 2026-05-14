@@ -4,6 +4,12 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/valeman/Awesome_Math_Books?style=social)
 
+---
+
+📚 **Complete catalog of faithful English translations from original Russian editions:** [russianmathbooks.com](https://russianmathbooks.com) — Northern Star Academic Press.
+
+---
+
 A curated collection of some of the **best mathematics books ever written** — spanning classical foundations, probability, analysis, geometry, and problem-solving texts used by mathematicians, scientists, engineers, and AI researchers.
 
 The goal of this repository is simple:
