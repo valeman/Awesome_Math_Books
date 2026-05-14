@@ -4,13 +4,13 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/valeman/Awesome_Math_Books?style=social)
 
----
-
-📚 **Complete catalog of faithful English translations from original Russian editions:** [russianmathbooks.com](https://russianmathbooks.com) — Northern Star Academic Press.
-
----
-
 A curated collection of some of the **best mathematics books ever written** — spanning classical foundations, probability, analysis, geometry, and problem-solving texts used by mathematicians, scientists, engineers, and AI researchers.
+
+---
+
+📚 **Complete catalog of faithful English translations from original Russian editions:** [russianmathbooks.com](https://russianmathbooks.com/) — Northern Star Academic Press.
+
+---
 
 The goal of this repository is simple:
 
@@ -26,15 +26,15 @@ This repository highlights those works.
 
 # Featured Book
 
-## Kiselev’s Arithmetic — A.P. Kiselev
+## Kiselev's Arithmetic — A.P. Kiselev
 
 ![Kiselev Arithmetic](kiselev_cover.png)
 
 The legendary mathematics textbook that trained generations of scientists in Russia, the USSR, and China.
 
-For more than **125 years**, Kiselev’s books were among the most widely used mathematics textbooks in the world.
+For more than **125 years**, Kiselev's books were among the most widely used mathematics textbooks in the world.
 
-Over **100 million copies** were printed.
+Over **80 million copies** were printed.
 
 The book is famous for its:
 
@@ -53,7 +53,7 @@ For the **first time ever**, the book is now available in a **modern English tra
 ---
 ## Kiselev's Algebra, Parts I and II — A.P. Kiselev
 
-The legendary Russian algebra textbook (first published 1888) — the official algebra textbook in Russian and USSR schools for over 70 years, used by tens millions of students. Now available in English for the first time as a faithful translation from the original Russian edition.
+The legendary Russian algebra textbook (first published 1888) — the official algebra textbook in Russian and USSR schools for over 70 years, used by tens of millions of students. Now available in English for the first time as a faithful translation from the original Russian edition.
 
 **Part I** (Grades 6–8, ages 12–15): 6 chapters, 126 sections, 239 exercises. Covers relative numbers and operations, monomials, polynomials and algebraic fractions, ratios and proportions, equations of the first degree (one and two unknowns), systems of equations, powers and roots, and quadratic equations.
 
@@ -61,8 +61,10 @@ The legendary Russian algebra textbook (first published 1888) — the official a
 
 Every rule is derived, not dictated. Every method is built from a real problem. The structure: **define → prove → apply → practise.**
 
-- Part I (available now): https://valeman.gumroad.com/l/kiselev_algebra_part_I
-- Part II (pre-order): https://valeman.gumroad.com/l/kiselev_algebra_part_II
+**Full details:** [Part I](https://russianmathbooks.com/books/kiselev-algebra-part-i/) · [Part II](https://russianmathbooks.com/books/kiselev-algebra-part-ii/)
+
+- Part I (available now): [russianmathbooks.com](https://russianmathbooks.com/books/kiselev-algebra-part-i/) · [Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_I)
+- Part II (pre-order): [russianmathbooks.com](https://russianmathbooks.com/books/kiselev-algebra-part-ii/) · [Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_II)
 
 ---
 # Probability Classic
@@ -80,17 +82,17 @@ This book laid the groundwork for:
 
 This is the **first ever English translation** of Markov's original work.
 
-Available here:
+**Full details:** [russianmathbooks.com/books/markov-calculus-of-probabilities/](https://russianmathbooks.com/books/markov-calculus-of-probabilities/)
 
-https://valeman.gumroad.com/l/markov1900
+Direct purchase: [Gumroad](https://valeman.gumroad.com/l/markov1900)
 
 ---
 
 # Classical Mathematics Bundle
 
-Both translations together at a discounted bundle price.
+Multiple curriculum bundles available — Kiselev's Complete School Mathematics, the full Kiselev curriculum (Arithmetic + Algebra I + II), and the Arithmetic Masters Collection.
 
-https://valeman.gumroad.com/l/math_bundle
+**All bundles:** [russianmathbooks.com/bundles/](https://russianmathbooks.com/bundles/)
 
 ---
 
@@ -105,13 +107,13 @@ Many of them were trained using textbooks designed with a radically different ph
 • emphasis on **logical reasoning**
 • strong problem-solving culture
 
-Books like **Kiselev’s Arithmetic** played a central role in this tradition.
+Books like **Kiselev's Arithmetic** played a central role in this tradition.
 
 ---
 
 # Support This Project
 
-If you find this repository useful, you can support the project by checking out my translations of classical mathematics texts russianmathbooks.com
+If you find this repository useful, you can support the project by checking out my translations of classical Russian mathematics textbooks at [russianmathbooks.com](https://russianmathbooks.com/) — Northern Star Academic Press.
 
 More about my work:
 
@@ -185,7 +187,7 @@ https://valeriy.ai
 38. [Analytical Geometry](https://archive.org/details/pogorelov-analytical-geometry-mir-publishers-1980) by Pogorelov
 39. [Problems In Analytic Geometry](https://archive.org/details/kletenik-problems-in-analytic-geometry-peace) by D. Kletenik
 40. [A Collection Of Problems (Higher Mathematics)](https://archive.org/details/bugrov-nikolsky-a-collection-of-problems-higher-mathematics-mir-1984/) by  Bugrov, Nikolsky
-41. [Mathematical Analysis – Functions, Limits, Series, Continued Fractions](https://archive.org/details/lyusternik-yanpolskii-mathematical-analysis-functions-limits-series-continued-fractions) by Lyusternik, Yanpol’skii (Eds.)
+41. [Mathematical Analysis – Functions, Limits, Series, Continued Fractions](https://archive.org/details/lyusternik-yanpolskii-mathematical-analysis-functions-limits-series-continued-fractions) by Lyusternik, Yanpol'skii (Eds.)
 42. [Ordinary Differential Equations](https://archive.org/details/pontryagin-ordinary-differential-equations) by Pontryagin
 43. [Mathematical Analysis In Questions And Problems](https://archive.org/details/butuzov-ed.-mathematical-analysis-in-questions-and-problems-mir-1988) by B. F. Butuzov (Ed.); N. Ch. Krutitsknyn; G. N. Medvedev; A. A. Shishkin
 44. [A Course on Mathematical Analysis](https://archive.org/details/khinchin-a-course-of-mathematical-analysis) by Khinchin
@@ -251,7 +253,7 @@ by M. Krasnov, A. Kiselev, G. Makarenko
 100.  [Introduction To Topology](https://archive.org/details/borisovichbliznyakovizrailevichfomenkointroductiontotopologymir)
 by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
 101. [Challenging Mathematical Problems With Elementary Solutions Vol. 1](https://archive.org/details/yaglom-yaglom-challenging-mathematical-problems-with-elementary-solutions-vol.-1) by A. M. Yaglom; I. M. Yaglom
-102. [mathematics can be fun-1](https://archive.org/details/MathematicsCanBeFun-1) by Yakov Perelman
+102. [mathematics can be fun-1](https://archive.org/details/MathematicsCanBeFun-1) by Yakov Perelman → See also the new English translation of his [Entertaining Arithmetic](https://russianmathbooks.com/books/perelman-entertaining-arithmetic/).
 103. [Worked Problems In Applied Mathematics](https://archive.org/details/n.-n.-lebedev-i.-p.-skalskaya-y.-s.-uflyand-worked-problems-in-applied-mathematics-1965) by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand [pdf](https://mega.nz/file/r9M3DQYS#d92_lQNanEr6wP0IamUV1qVxkCxHlMAnLI592yZbM0Q)
 104. [Selected Problems On Discrete Mathematics](https://archive.org/details/gavrilov-sapozhenko-selected-problems-on-discrete-mathematics-mir-1989) by G. P. Gavrilov; A. A. Sapozhenko
 105. [Mistakes in Geometric Proofs](https://archive.org/details/dubnov-mistakes-in-geometric-proofs-topics-in-mathematics) by Dubnov
@@ -360,9 +362,23 @@ https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-editio
 200. [Trigonometry](https://dn790008.ca.archive.org/0/items/GelfandSaulTrigonometry/GelfandSaul-Trigonometry.pdf) by Gelfand and Saul 🔥🔥🔥🔥🔥
 201. [Algebra](https://www.cimat.mx/ciencia_para_jovenes/bachillerato/libros/algebra_gelfand.pdf) by Gelfand and Shen 🔥🔥🔥🔥🔥
 
-202. [Arithmetic](https://valeman.gumroad.com/l/arithmetic) by A.P. Kiselev (first modern English translation — one of the bestselling math textbooks ever written, 125+ years in print) 🔥🔥🔥🔥🔥 <a href="https://valeman.gumroad.com/l/arithmetic" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Arithmetic_by_Kiselev-orange?style=for-the-badge" alt="Get Arithmetic by Kiselev"></a>
+202. [Arithmetic](https://russianmathbooks.com/books/kiselev-arithmetic/) by A.P. Kiselev (first modern English translation — one of the bestselling math textbooks ever written, 125+ years in print) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/arithmetic) <a href="https://russianmathbooks.com/books/kiselev-arithmetic/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Arithmetic_by_Kiselev-orange?style=for-the-badge" alt="Get Arithmetic by Kiselev"></a>
 
-203. [Algebra, Part I](https://valeman.gumroad.com/l/kiselev_algebra_part_I) by A.P. Kiselev (first modern English translation — the official Soviet algebra textbook for decades, 126 sections, 6 chapters) 🔥🔥🔥🔥🔥 <a href="https://valeman.gumroad.com/l/kiselev_algebra_part_I" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Algebra_by_Kiselev-orange?style=for-the-badge" alt="Get Algebra by Kiselev"></a>
+203. [Algebra, Part I](https://russianmathbooks.com/books/kiselev-algebra-part-i/) by A.P. Kiselev (first modern English translation — the official Soviet algebra textbook for decades, 126 sections, 6 chapters) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_I) <a href="https://russianmathbooks.com/books/kiselev-algebra-part-i/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Algebra_by_Kiselev-orange?style=for-the-badge" alt="Get Algebra by Kiselev"></a>
+
+204. [Algebra, Part II](https://russianmathbooks.com/books/kiselev-algebra-part-ii/) by A.P. Kiselev (pre-order — 12 chapters plus Supplements, 187 sections: functions, quadratic systems, inequalities, logarithms, progressions, complex numbers, binomial theorem, continued fractions)
+
+205. [Planimetry](https://russianmathbooks.com/books/kiselev-planimetry/) by A.P. Kiselev (proof-based Euclidean geometry — 6 chapters, 269 sections: basic concepts, triangles, circles, similarity, regular polygons, areas)
+
+206. [Stereometry](https://russianmathbooks.com/books/kiselev-stereometry/) by A.P. Kiselev (pre-order — three-dimensional geometry: polyhedra, Platonic solids, cylinders, cones, the ball, Cavalieri's principle)
+
+207. [Calculus](https://russianmathbooks.com/books/kiselev-calculus/) by A.P. Kiselev (pre-order — first complete English translation; single-variable differential and integral calculus, proof-based, with classical applications)
+
+208. [1001 Problems in Mental Arithmetic](https://russianmathbooks.com/books/rachinsky-1001-problems/) by S.A. Rachinsky (the village schoolteacher whose pupils appear in Bogdanov-Belsky's 1895 painting "Mental Arithmetic")
+
+209. [Arithmetic](https://russianmathbooks.com/books/malinin-burenin-arithmetic/) by A. Malinin & K. Burenin (Imperial Russian arithmetic textbook — 11 chapters, 301 sections covering numeration, operations, divisibility, fractions, ratios, proportions, percentage, interest, Diophantine problems)
+
+210. [Entertaining Arithmetic](https://russianmathbooks.com/books/perelman-entertaining-arithmetic/) by Ya.I. Perelman (the classic of Russian popular mathematics — puzzles, riddles, and curiosities)
 
 ## Machine_learning
 1. [Machine Learning](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf) by Tom Mitchell, Carnegie Mellon.
@@ -406,7 +422,7 @@ by L. D. Landau, A. I. Kitaigorodsky
 26. [Equations of Mathematical Physics – V. S. Vladimirov (1971)](https://archive.org/details/vladimirov-equations-of-mathematical-physics)
 27. [A Collection of Problems on the Equations of Mathematical Physics – A. V. Bitsadze & D. F. Kalinichenko (1981)](https://archive.org/details/BitsadzeKalinichenkoProblems)
 28. [Generalized Functions in Mathematical Physics – V. S. Vladimirov (1979)](https://archive.org/details/vladimirov-genaralized-equations-in-mathematical-physics)
-29. [Fun with Maths and Physics – Yakov Perelman](https://archive.org/details/funwithmathsandphysicsgnv64)
+29. [Fun with Maths and Physics – Yakov Perelman](https://archive.org/details/funwithmathsandphysicsgnv64) → See [Entertaining Arithmetic translation](https://russianmathbooks.com/books/perelman-entertaining-arithmetic/).
 30. [Lectures In Analytical Mechanics by F. Gantmacher](https://archive.org/details/lectures-in-analytical-mechanics-f.-gantmacher) 🔥🔥🔥🔥🔥
 31. [Collected Problems in Physics](https://archive.org/details/s.-kozel-e.-rashda-s.-slavatinskii-collected-problems-in-physics-mir-1986/mode/2up)  S. Kozel; E. Rashda; S. Slavatinskii 🔥🔥🔥🔥🔥
 32. [Physics In Your Kitchen Lab](https://archive.org/details/PhysicsInYourKitchenLabKikoin) by Kikoin
@@ -422,9 +438,9 @@ by L. D. Landau, A. I. Kitaigorodsky
 4. [Lady Luck : the theory of probability](https://archive.org/details/ladylucktheoryof0000weav_n9d6)
 5. [Probability and Statistics](https://archive.org/details/probabilitystati00most_0/page/n13/mode/2up)
 
-6. [The Calculus of Probabilities (1900)](https://valeman.gumroad.com/l/markov1900) by A.A. Markov (first-ever English translation of the foundational text by the father of Markov Chains) 🔥🔥🔥🔥🔥
+6. [The Calculus of Probabilities (1900)](https://russianmathbooks.com/books/markov-calculus-of-probabilities/) by A.A. Markov (first-ever English translation of the foundational text by the father of Markov Chains) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/markov1900)
 
-<a href="https://valeman.gumroad.com/l/markov1900" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Markov's_Calculus_of_Probabilities-orange?style=for-the-badge" alt="Get Markov's Calculus of Probabilities"></a>
+<a href="https://russianmathbooks.com/books/markov-calculus-of-probabilities/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Markov's_Calculus_of_Probabilities-orange?style=for-the-badge" alt="Get Markov's Calculus of Probabilities"></a>
 
 ## Econometrics
 1. [Basic Econometrics](http://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf) by Riccardo (Jack) Lucchetti (2024)
