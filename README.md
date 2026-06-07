@@ -361,24 +361,25 @@ https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-editio
 199. [Problems In Mathematical Analysis](https://archive.org/details/DemidovichEtAlProblemsInMathematicalAnalysisMir1970) the iconic book elite Chinese students called Jimmy.
 200. [Trigonometry](https://dn790008.ca.archive.org/0/items/GelfandSaulTrigonometry/GelfandSaul-Trigonometry.pdf) by Gelfand and Saul 🔥🔥🔥🔥🔥
 201. [Algebra](https://www.cimat.mx/ciencia_para_jovenes/bachillerato/libros/algebra_gelfand.pdf) by Gelfand and Shen 🔥🔥🔥🔥🔥
+202. [Elements Of Applied Mathematics](https://archive.org/details/ZeldovichMyskisElementsOfAppliedMathematics) by Zeldovich and Myskis
 
-202. [Arithmetic](https://russianmathbooks.com/books/kiselev-arithmetic/) by A.P. Kiselev (first modern English translation — one of the bestselling math textbooks ever written, 125+ years in print) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/arithmetic) <a href="https://russianmathbooks.com/books/kiselev-arithmetic/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Arithmetic_by_Kiselev-orange?style=for-the-badge" alt="Get Arithmetic by Kiselev"></a>
+203. [Arithmetic](https://russianmathbooks.com/books/kiselev-arithmetic/) by A.P. Kiselev (first modern English translation — one of the bestselling math textbooks ever written, 125+ years in print) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/arithmetic) <a href="https://russianmathbooks.com/books/kiselev-arithmetic/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Arithmetic_by_Kiselev-orange?style=for-the-badge" alt="Get Arithmetic by Kiselev"></a>
 
-203. [Algebra, Part I](https://russianmathbooks.com/books/kiselev-algebra-part-i/) by A.P. Kiselev (first modern English translation — the official Soviet algebra textbook for decades, 126 sections, 6 chapters) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_I) <a href="https://russianmathbooks.com/books/kiselev-algebra-part-i/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Algebra_by_Kiselev-orange?style=for-the-badge" alt="Get Algebra by Kiselev"></a>
+204. [Algebra, Part I](https://russianmathbooks.com/books/kiselev-algebra-part-i/) by A.P. Kiselev (first modern English translation — the official Soviet algebra textbook for decades, 126 sections, 6 chapters) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_I) <a href="https://russianmathbooks.com/books/kiselev-algebra-part-i/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Algebra_by_Kiselev-orange?style=for-the-badge" alt="Get Algebra by Kiselev"></a>
 
-204. [Algebra, Part II](https://russianmathbooks.com/books/kiselev-algebra-part-ii/) by A.P. Kiselev (pre-order — 12 chapters plus Supplements, 187 sections: functions, quadratic systems, inequalities, logarithms, progressions, complex numbers, binomial theorem, continued fractions)
+205. [Algebra, Part II](https://russianmathbooks.com/books/kiselev-algebra-part-ii/) by A.P. Kiselev (pre-order — 12 chapters plus Supplements, 187 sections: functions, quadratic systems, inequalities, logarithms, progressions, complex numbers, binomial theorem, continued fractions)
 
-205. [Planimetry](https://russianmathbooks.com/books/kiselev-planimetry/) by A.P. Kiselev (proof-based Euclidean geometry — 6 chapters, 269 sections: basic concepts, triangles, circles, similarity, regular polygons, areas)
+206. [Planimetry](https://russianmathbooks.com/books/kiselev-planimetry/) by A.P. Kiselev (proof-based Euclidean geometry — 6 chapters, 269 sections: basic concepts, triangles, circles, similarity, regular polygons, areas)
 
-206. [Stereometry](https://russianmathbooks.com/books/kiselev-stereometry/) by A.P. Kiselev (pre-order — three-dimensional geometry: polyhedra, Platonic solids, cylinders, cones, the ball, Cavalieri's principle)
+207. [Stereometry](https://russianmathbooks.com/books/kiselev-stereometry/) by A.P. Kiselev (pre-order — three-dimensional geometry: polyhedra, Platonic solids, cylinders, cones, the ball, Cavalieri's principle)
 
-207. [Calculus](https://russianmathbooks.com/books/kiselev-calculus/) by A.P. Kiselev (pre-order — first complete English translation; single-variable differential and integral calculus, proof-based, with classical applications)
+208. [Calculus](https://russianmathbooks.com/books/kiselev-calculus/) by A.P. Kiselev (pre-order — first complete English translation; single-variable differential and integral calculus, proof-based, with classical applications)
 
-208. [1001 Problems in Mental Arithmetic](https://russianmathbooks.com/books/rachinsky-1001-problems/) by S.A. Rachinsky (the village schoolteacher whose pupils appear in Bogdanov-Belsky's 1895 painting "Mental Arithmetic")
+209. [1001 Problems in Mental Arithmetic](https://russianmathbooks.com/books/rachinsky-1001-problems/) by S.A. Rachinsky (the village schoolteacher whose pupils appear in Bogdanov-Belsky's 1895 painting "Mental Arithmetic")
 
-209. [Arithmetic](https://russianmathbooks.com/books/malinin-burenin-arithmetic/) by A. Malinin & K. Burenin (Imperial Russian arithmetic textbook — 11 chapters, 301 sections covering numeration, operations, divisibility, fractions, ratios, proportions, percentage, interest, Diophantine problems)
+210. [Arithmetic](https://russianmathbooks.com/books/malinin-burenin-arithmetic/) by A. Malinin & K. Burenin (Imperial Russian arithmetic textbook — 11 chapters, 301 sections covering numeration, operations, divisibility, fractions, ratios, proportions, percentage, interest, Diophantine problems)
 
-210. [Entertaining Arithmetic](https://russianmathbooks.com/books/perelman-entertaining-arithmetic/) by Ya.I. Perelman (the classic of Russian popular mathematics — puzzles, riddles, and curiosities)
+211. [Entertaining Arithmetic](https://russianmathbooks.com/books/perelman-entertaining-arithmetic/) by Ya.I. Perelman (the classic of Russian popular mathematics — puzzles, riddles, and curiosities)
 
 ## Machine_learning
 1. [Machine Learning](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf) by Tom Mitchell, Carnegie Mellon.
