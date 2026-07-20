@@ -1,6 +1,6 @@
 # Awesome Math Books
 
-⭐ If you find this repository useful, please **consider staring it**.
+⭐ If you find this repository useful, please **consider starring it**.
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/valeman/Awesome_Math_Books?style=social)
 
@@ -64,7 +64,7 @@ Every rule is derived, not dictated. Every method is built from a real problem. 
 **Full details:** [Part I](https://russianmathbooks.com/books/kiselev-algebra-part-i/) · [Part II](https://russianmathbooks.com/books/kiselev-algebra-part-ii/)
 
 - Part I (available now): [russianmathbooks.com](https://russianmathbooks.com/books/kiselev-algebra-part-i/) · [Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_I)
-- Part II (pre-order): [russianmathbooks.com](https://russianmathbooks.com/books/kiselev-algebra-part-ii/) · [Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_II)
+- Part II: [russianmathbooks.com](https://russianmathbooks.com/books/kiselev-algebra-part-ii/) · [Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_II)
 
 ---
 # Probability Classic
@@ -368,19 +368,31 @@ https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-editio
 
 205. [Algebra, Part I](https://russianmathbooks.com/books/kiselev-algebra-part-i/) by A.P. Kiselev (first modern English translation — the official Soviet algebra textbook for decades, 126 sections, 6 chapters) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_I) <a href="https://russianmathbooks.com/books/kiselev-algebra-part-i/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Algebra_by_Kiselev-orange?style=for-the-badge" alt="Get Algebra by Kiselev"></a>
 
-206. [Algebra, Part II](https://russianmathbooks.com/books/kiselev-algebra-part-ii/) by A.P. Kiselev (pre-order — 12 chapters plus Supplements, 187 sections: functions, quadratic systems, inequalities, logarithms, progressions, complex numbers, binomial theorem, continued fractions)
+206. [Algebra, Part II](https://russianmathbooks.com/books/kiselev-algebra-part-ii/) by A.P. Kiselev (12 chapters plus Supplements, 187 sections: functions, quadratic systems, inequalities, logarithms, progressions, complex numbers, binomial theorem, continued fractions)
 
 207. [Planimetry](https://russianmathbooks.com/books/kiselev-planimetry/) by A.P. Kiselev (proof-based Euclidean geometry — 6 chapters, 269 sections: basic concepts, triangles, circles, similarity, regular polygons, areas)
 
-208. [Stereometry](https://russianmathbooks.com/books/kiselev-stereometry/) by A.P. Kiselev (pre-order — three-dimensional geometry: polyhedra, Platonic solids, cylinders, cones, the ball, Cavalieri's principle)
+208. [Stereometry](https://russianmathbooks.com/books/kiselev-stereometry/) by A.P. Kiselev (three-dimensional geometry: polyhedra, Platonic solids, cylinders, cones, the ball, Cavalieri's principle)
 
-209. [Calculus](https://russianmathbooks.com/books/kiselev-calculus/) by A.P. Kiselev (pre-order — first complete English translation; single-variable differential and integral calculus, proof-based, with classical applications)
+209. [Calculus](https://russianmathbooks.com/books/kiselev-calculus/) by A.P. Kiselev (first complete English translation — single-variable differential and integral calculus, proof-based, with classical applications)
 
 210. [1001 Problems in Mental Arithmetic](https://russianmathbooks.com/books/rachinsky-1001-problems/) by S.A. Rachinsky (the village schoolteacher whose pupils appear in Bogdanov-Belsky's 1895 painting "Mental Arithmetic")
 
 211. [Arithmetic](https://russianmathbooks.com/books/malinin-burenin-arithmetic/) by A. Malinin & K. Burenin (Imperial Russian arithmetic textbook — 11 chapters, 301 sections covering numeration, operations, divisibility, fractions, ratios, proportions, percentage, interest, Diophantine problems)
 
 212. [Entertaining Arithmetic](https://russianmathbooks.com/books/perelman-entertaining-arithmetic/) by Ya.I. Perelman (the classic of Russian popular mathematics — puzzles, riddles, and curiosities)
+
+213. [Systematic Course of Arithmetic](https://russianmathbooks.com/books/kiselev-systematic-arithmetic/) by A.P. Kiselev (the definitive expanded arithmetic — 264 articles in 7 divisions, with Euclid's proof of the infinitude of primes and limits of sequences presented at school level)
+
+214. [Problems and Exercises in Elementary Algebra](https://russianmathbooks.com/books/kiselev-problems-elementary-algebra/) by A.P. Kiselev (the companion problem collection to Kiselev's Algebra — hundreds of sequenced problems mirroring the chapter structure of Parts I and II)
+
+215. [Collection of Problems in Geometry, Part I: Planimetry](https://russianmathbooks.com/books/rybkin-planimetry-problems/) by N.A. Rybkin (the problem set used alongside Kiselev's geometry for over a century — 970 problems in 16 sections, first complete English translation)
+
+216. [Arithmetic — Problems and Exercises](https://russianmathbooks.com/books/berezanskaya-arithmetic-problems/) by E.S. Berezanskaya (the iconic companion to Kiselev's Arithmetic — 2,354 problems in 8 chapters, used side-by-side in Russian classrooms for 70+ years)
+
+217. [Algebra](https://russianmathbooks.com/books/barsukov-algebra/) by A.N. Barsukov (the Soviet school's standard algebra — ten editions, ~10 million copies; includes the slide-rule chapter almost never found in Western texts)
+
+218. [Solutions to Rachinsky's 1001 Problems](https://russianmathbooks.com/books/rachinsky-1001-solutions/) by V. Manokhin (every problem fully worked, with 12 corrections to errors in the original 1899 answer key)
 
 ## Machine_learning
 1. [Machine Learning](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf) by Tom Mitchell, Carnegie Mellon.
