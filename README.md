@@ -121,12 +121,6 @@ https://valeriy.ai
 
 ---
 
-# Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=valeman/Awesome_Math_Books\&type=Date)](https://star-history.com/#valeman/Awesome_Math_Books&Date)
-
----
-
 # Buy Me a Coffee
 
 <a href="https://www.buymeacoffee.com/valeman" target="_blank">
