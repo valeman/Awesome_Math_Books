@@ -466,6 +466,7 @@ by L. D. Landau, A. I. Kitaigorodsky
 ## Econometrics
 1. [Basic Econometrics](http://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf) by Riccardo (Jack) Lucchetti (2024)
 2. [A gentle introduction to matrix calculus](https://www.janmagnus.nl/papers/gentle.pdf) by Jan Magnus  🔥🔥🔥🔥🔥
+3. [On the concept of matrix derivative](https://janmagnus.nl/papers/JRM093.pdf) by Jan Magnus 🔥🔥🔥🔥🔥
 
 ## Optimization
 1. [Algorithms for optimization, MIT book](https://algorithmsbook.com/optimization/files/optimization.pdf) by Mykel Kochenderfer, Tim Wheeler
