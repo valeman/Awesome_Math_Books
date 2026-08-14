@@ -362,36 +362,43 @@ https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-editio
 206. [Limit Distributions For Sums Of Independent Random Variables](https://archive.org/details/gnedenko-kolmogorov-limit-distributions-for-sums-of-independent-random-variables) by B. V. Gnedenko; A. N. Kolmogorov  🔥🔥🔥🔥🔥
 207. [Random Walks](https://archive.org/details/dynkin-uspenskii-random-walks-mathematical-conversations-part-3) by E. B. Dynkin; V. A. Uspenskii
 208. [Three Pearls Of Number Theory](https://archive.org/details/khinchin-three-pearls-of-number-theory) by A. Y. Khinchin 🔥🔥🔥🔥🔥
+209. [Eight Lectures on Mathematical Analysis](https://archive.org/details/khinchin-eight-lectures-on-mathematical-an) by A. Ya. Khinchin
+210. [Mathematical Foundations of Quantum Statistics](https://archive.org/details/khinchin-mathematical-foundations-of-quant) by A. Ya. Khinchin
+211. [Mathematical Problems: An Anthology (Pocket Mathematical Library)](https://archive.org/details/mathematical-problems-an-anthology-pocket-) by E. B. Dynkin; S. A. Molchanov et al.
+212. [Generalized Functions Vol 2 Spaces Of Fundamental And Generalized Functions](https://archive.org/details/gelfand-shilov-generalized-functions-vol-2) by I. M. Gelfand; G. E. Shilov
+213. [Generalized Functions Vol 3 Theory Of Differential Equations](https://archive.org/details/gelfand-shilov-generalized-functions-vol-3) by I. M. Gelfand; G. E. Shilov
+214. [Generalized Functions Vol 4 Applications Of Harmonic Analysis](https://archive.org/details/gelfand-vilenkin-generalized-functions-vol) by I. M. Gelfand; N. Ya. Vilenkin
+215.[Generalized Functions Vol 5 Integral Geometry And Representation Theory](https://archive.org/details/gelfand-graev-vilenkin-generalized-functio) by I. M. Gelfand; M. I. Graev; N. Ya. Vilenkin
+216.  [Calculus of Rational Functions (Little Mathematics Library)](https://archive.org/details/CalculusOfRationalFunctionslittleMathemati) by G. E. Shilov
+217.  [Arithmetic](https://russianmathbooks.com/books/kiselev-arithmetic/) by A.P. Kiselev (first modern English translation — one of the bestselling math textbooks ever written, 125+ years in print) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/arithmetic) <a href="https://russianmathbooks.com/books/kiselev-arithmetic/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Arithmetic_by_Kiselev-orange?style=for-the-badge" alt="Get Arithmetic by Kiselev"></a>
 
-209. [Arithmetic](https://russianmathbooks.com/books/kiselev-arithmetic/) by A.P. Kiselev (first modern English translation — one of the bestselling math textbooks ever written, 125+ years in print) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/arithmetic) <a href="https://russianmathbooks.com/books/kiselev-arithmetic/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Arithmetic_by_Kiselev-orange?style=for-the-badge" alt="Get Arithmetic by Kiselev"></a>
+[Algebra, Part I](https://russianmathbooks.com/books/kiselev-algebra-part-i/) by A.P. Kiselev (first modern English translation — the official Soviet algebra textbook for decades, 126 sections, 6 chapters) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_I) <a href="https://russianmathbooks.com/books/kiselev-algebra-part-i/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Algebra_by_Kiselev-orange?style=for-the-badge" alt="Get Algebra by Kiselev"></a>
 
-210. [Algebra, Part I](https://russianmathbooks.com/books/kiselev-algebra-part-i/) by A.P. Kiselev (first modern English translation — the official Soviet algebra textbook for decades, 126 sections, 6 chapters) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_I) <a href="https://russianmathbooks.com/books/kiselev-algebra-part-i/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Algebra_by_Kiselev-orange?style=for-the-badge" alt="Get Algebra by Kiselev"></a>
+[Algebra, Part II](https://russianmathbooks.com/books/kiselev-algebra-part-ii/) by A.P. Kiselev (12 chapters plus Supplements, 187 sections: functions, quadratic systems, inequalities, logarithms, progressions, complex numbers, binomial theorem, continued fractions)
 
-211. [Algebra, Part II](https://russianmathbooks.com/books/kiselev-algebra-part-ii/) by A.P. Kiselev (12 chapters plus Supplements, 187 sections: functions, quadratic systems, inequalities, logarithms, progressions, complex numbers, binomial theorem, continued fractions)
+[Planimetry](https://russianmathbooks.com/books/kiselev-planimetry/) by A.P. Kiselev (proof-based Euclidean geometry — 6 chapters, 269 sections: basic concepts, triangles, circles, similarity, regular polygons, areas)
 
-212. [Planimetry](https://russianmathbooks.com/books/kiselev-planimetry/) by A.P. Kiselev (proof-based Euclidean geometry — 6 chapters, 269 sections: basic concepts, triangles, circles, similarity, regular polygons, areas)
+[Stereometry](https://russianmathbooks.com/books/kiselev-stereometry/) by A.P. Kiselev (three-dimensional geometry: polyhedra, Platonic solids, cylinders, cones, the ball, Cavalieri's principle)
 
-213. [Stereometry](https://russianmathbooks.com/books/kiselev-stereometry/) by A.P. Kiselev (three-dimensional geometry: polyhedra, Platonic solids, cylinders, cones, the ball, Cavalieri's principle)
+[Calculus](https://russianmathbooks.com/books/kiselev-calculus/) by A.P. Kiselev (first complete English translation — single-variable differential and integral calculus, proof-based, with classical applications)
 
-214. [Calculus](https://russianmathbooks.com/books/kiselev-calculus/) by A.P. Kiselev (first complete English translation — single-variable differential and integral calculus, proof-based, with classical applications)
+[1001 Problems in Mental Arithmetic](https://russianmathbooks.com/books/rachinsky-1001-problems/) by S.A. Rachinsky (the village schoolteacher whose pupils appear in Bogdanov-Belsky's 1895 painting "Mental Arithmetic")
 
-215. [1001 Problems in Mental Arithmetic](https://russianmathbooks.com/books/rachinsky-1001-problems/) by S.A. Rachinsky (the village schoolteacher whose pupils appear in Bogdanov-Belsky's 1895 painting "Mental Arithmetic")
+[Arithmetic](https://russianmathbooks.com/books/malinin-burenin-arithmetic/) by A. Malinin & K. Burenin (Imperial Russian arithmetic textbook — 11 chapters, 301 sections covering numeration, operations, divisibility, fractions, ratios, proportions, percentage, interest, Diophantine problems)
 
-216. [Arithmetic](https://russianmathbooks.com/books/malinin-burenin-arithmetic/) by A. Malinin & K. Burenin (Imperial Russian arithmetic textbook — 11 chapters, 301 sections covering numeration, operations, divisibility, fractions, ratios, proportions, percentage, interest, Diophantine problems)
+[Entertaining Arithmetic](https://russianmathbooks.com/books/perelman-entertaining-arithmetic/) by Ya.I. Perelman (the classic of Russian popular mathematics — puzzles, riddles, and curiosities)
 
-217. [Entertaining Arithmetic](https://russianmathbooks.com/books/perelman-entertaining-arithmetic/) by Ya.I. Perelman (the classic of Russian popular mathematics — puzzles, riddles, and curiosities)
+[Systematic Course of Arithmetic](https://russianmathbooks.com/books/kiselev-systematic-arithmetic/) by A.P. Kiselev (the definitive expanded arithmetic — 264 articles in 7 divisions, with Euclid's proof of the infinitude of primes and limits of sequences presented at school level)
 
-218. [Systematic Course of Arithmetic](https://russianmathbooks.com/books/kiselev-systematic-arithmetic/) by A.P. Kiselev (the definitive expanded arithmetic — 264 articles in 7 divisions, with Euclid's proof of the infinitude of primes and limits of sequences presented at school level)
+221. [Problems and Exercises in Elementary Algebra](https://russianmathbooks.com/books/kiselev-problems-elementary-algebra/) by A.P. Kiselev (the companion problem collection to Kiselev's Algebra — hundreds of sequenced problems mirroring the chapter structure of Parts I and II)
 
-219. [Problems and Exercises in Elementary Algebra](https://russianmathbooks.com/books/kiselev-problems-elementary-algebra/) by A.P. Kiselev (the companion problem collection to Kiselev's Algebra — hundreds of sequenced problems mirroring the chapter structure of Parts I and II)
+222. [Collection of Problems in Geometry, Part I: Planimetry](https://russianmathbooks.com/books/rybkin-planimetry-problems/) by N.A. Rybkin (the problem set used alongside Kiselev's geometry for over a century — 970 problems in 16 sections, first complete English translation)
 
-220. [Collection of Problems in Geometry, Part I: Planimetry](https://russianmathbooks.com/books/rybkin-planimetry-problems/) by N.A. Rybkin (the problem set used alongside Kiselev's geometry for over a century — 970 problems in 16 sections, first complete English translation)
+223. [Arithmetic — Problems and Exercises](https://russianmathbooks.com/books/berezanskaya-arithmetic-problems/) by E.S. Berezanskaya (the iconic companion to Kiselev's Arithmetic — 2,354 problems in 8 chapters, used side-by-side in Russian classrooms for 70+ years)
 
-221. [Arithmetic — Problems and Exercises](https://russianmathbooks.com/books/berezanskaya-arithmetic-problems/) by E.S. Berezanskaya (the iconic companion to Kiselev's Arithmetic — 2,354 problems in 8 chapters, used side-by-side in Russian classrooms for 70+ years)
+224. [Algebra](https://russianmathbooks.com/books/barsukov-algebra/) by A.N. Barsukov (the Soviet school's standard algebra — ten editions, ~10 million copies; includes the slide-rule chapter almost never found in Western texts)
 
-222. [Algebra](https://russianmathbooks.com/books/barsukov-algebra/) by A.N. Barsukov (the Soviet school's standard algebra — ten editions, ~10 million copies; includes the slide-rule chapter almost never found in Western texts)
-
-223. [Solutions to Rachinsky's 1001 Problems](https://russianmathbooks.com/books/rachinsky-1001-solutions/) by V. Manokhin (every problem fully worked, with 12 corrections to errors in the original 1899 answer key)
+225. [Solutions to Rachinsky's 1001 Problems](https://russianmathbooks.com/books/rachinsky-1001-solutions/) by V. Manokhin (every problem fully worked, with 12 corrections to errors in the original 1899 answer key)
 
 ## Machine_learning
 1. [Machine Learning](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf) by Tom Mitchell, Carnegie Mellon.
