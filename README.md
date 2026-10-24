@@ -370,6 +370,7 @@ https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-editio
 214. [Generalized Functions Vol 4 Applications Of Harmonic Analysis](https://archive.org/details/gelfand-vilenkin-generalized-functions-vol) by I. M. Gelfand; N. Ya. Vilenkin
 215.[Generalized Functions Vol 5 Integral Geometry And Representation Theory](https://archive.org/details/gelfand-graev-vilenkin-generalized-functio) by I. M. Gelfand; M. I. Graev; N. Ya. Vilenkin
 216.  [Calculus of Rational Functions (Little Mathematics Library)](https://archive.org/details/CalculusOfRationalFunctionslittleMathemati) by G. E. Shilov
+217.  [Introduction To Mathematical Probability](https://archive.org/details/in.ernet.dli.2015.263184/page/n11/mode/2up) by J.V. Unspenskii
 
 [Arithmetic](https://russianmathbooks.com/books/kiselev-arithmetic/) by A.P. Kiselev (first modern English translation — one of the bestselling math textbooks ever written, 125+ years in print) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/arithmetic) <a href="https://russianmathbooks.com/books/kiselev-arithmetic/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Arithmetic_by_Kiselev-orange?style=for-the-badge" alt="Get Arithmetic by Kiselev"></a>
 
@@ -460,6 +461,7 @@ by L. D. Landau, A. I. Kitaigorodsky
 5. [Probability and Statistics](https://archive.org/details/probabilitystati00most_0/page/n13/mode/2up)
 
 6. [The Calculus of Probabilities (1900)](https://russianmathbooks.com/books/markov-calculus-of-probabilities/) by A.A. Markov (first-ever English translation of the foundational text by the father of Markov Chains) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/markov1900)
+7.   [Introduction To Mathematical Probability](https://archive.org/details/in.ernet.dli.2015.263184/page/n11/mode/2up) by J.V. Unspenskii
 
 <a href="https://russianmathbooks.com/books/markov-calculus-of-probabilities/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Markov's_Calculus_of_Probabilities-orange?style=for-the-badge" alt="Get Markov's Calculus of Probabilities"></a>
 
