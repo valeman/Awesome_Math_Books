@@ -1,13 +1,15 @@
+import hashlib
 import importlib.util
 from pathlib import Path
+from tempfile import TemporaryDirectory
 import unittest
 
 import mistune
 from bs4 import BeautifulSoup
 
 
-ROOT = Path(__file__).resolve().parents[1]
-spec = importlib.util.spec_from_file_location("preview", ROOT / "scripts" / "build_readme_preview.py")
+ROOT = Path(__file__).resolve().parents[2]
+spec = importlib.util.spec_from_file_location("preview", ROOT / "docs" / "scripts" / "build_readme_preview.py")
 preview = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(preview)
 
@@ -21,6 +23,43 @@ class CollectionFormattingTests(unittest.TestCase):
         source = (ROOT / "README.md").read_text(encoding="utf-8")
         preview.validate_source(source)
         self.validate(source)
+
+    def test_generated_previews_match_readme(self):
+        digest = hashlib.sha256((ROOT / "README.md").read_bytes()).hexdigest()
+        canonical = (ROOT / "docs" / "index.html").read_bytes()
+        for name in ("index.html", "preview.html", "collection-preview.html"):
+            with self.subTest(name=name):
+                output = (ROOT / "docs" / name).read_bytes()
+                self.assertEqual(output, canonical)
+                document = BeautifulSoup(output, "html.parser")
+                self.assertEqual(document.find("meta", attrs={"name": "readme-sha256"})["content"], digest)
+
+    def test_preview_navigation_targets_exist(self):
+        document = BeautifulSoup((ROOT / "docs" / "index.html").read_text(encoding="utf-8"), "html.parser")
+        for link in document.select('a[href^="#"]'):
+            with self.subTest(href=link["href"]):
+                self.assertIsNotNone(document.find(id=link["href"][1:]))
+
+    def test_relative_cover_links_resolve_after_relocation(self):
+        source = """# Collection
+
+## Table of Contents
+
+- [Math](#math)
+
+## Math
+
+1. [Book](https://example.org/book) by Author
+
+![Cover](docs/assets/kiselev_cover.jpg)
+"""
+        with TemporaryDirectory() as directory:
+            output = Path(directory).resolve() / "preview.html"
+            preview.render(source, output)
+            document = BeautifulSoup(output.read_text(encoding="utf-8"), "html.parser")
+            target = (output.parent / document.find("img")["src"]).resolve()
+            self.assertEqual(target, ROOT / "docs" / "assets" / "kiselev_cover.jpg")
+            self.assertTrue(target.is_file())
 
     def test_valid_entry(self):
         self.validate("1. [Book (Vol. 1)](https://example.org/book) by Author. **Commercial.**")

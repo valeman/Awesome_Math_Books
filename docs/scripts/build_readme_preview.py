@@ -10,7 +10,7 @@ import mistune
 from bs4 import BeautifulSoup
 
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 CSS = """
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
@@ -147,9 +147,9 @@ def render(source, output):
 if __name__ == "__main__":
     source = (ROOT / "README.md").read_text(encoding="utf-8")
     for output in (
-        ROOT / "preview.html",
-        ROOT / "collection-preview.html",
-        ROOT / "storefront" / "index.html",
+        ROOT / "docs" / "index.html",
+        ROOT / "docs" / "preview.html",
+        ROOT / "docs" / "collection-preview.html",
     ):
         render(source, output)
         print(output)
